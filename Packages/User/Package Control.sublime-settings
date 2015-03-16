@@ -1,0 +1,30 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Abacus",
+		"Alignment",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"FileHeader",
+		"GitGutter",
+		"jQuery",
+		"JsFormat",
+		"Navigation History",
+		"Origami",
+		"Package Control",
+		"Sublime Bookmarks",
+		"SublimeAStyleFormatter",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Swift",
+		"Switch File Deluxe",
+		"Switch Script",
+		"Syntax Manager",
+		"Tag",
+		"Theme - Soda"
+	]
+}

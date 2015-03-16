@@ -1,0 +1,16 @@
+{
+    "show_output_panel": false,
+    "options":
+    [
+        "-std=gnu++11",
+        "-I/usr/include/c++/*",
+        "-I/usr/include/c++/4.8",
+        "-I/usr/include/c++/4.8/*",
+        "-I/usr/lib/gcc/x86_64-linux-gnu/4.8/include/",
+        "-I/usr/lib/gcc/x86_64-linux-gnu/4.8/include/*",
+        "-I/usr/include/x86_64-linux-gnu/c++/4.8/",
+        "-I/usr/include/c++/4.8/backward/",
+        "-I/usr/local/include/",
+        "-I/usr/lib/llvm-3.4/lib/clang/3.4/include/",
+    ]
+}
