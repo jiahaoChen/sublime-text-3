@@ -7,17 +7,18 @@
 	"dont_prepend_clang_includes": true,
 	"enable_tab_scrolling": false,
 	"font_face": "Inconsolata",
-	"font_size": 14,
+	"font_size": 16,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"SublimeLinter",
 		"jQuery",
-		"Vintage"
+		"Vintage",
+		"SublimeLinter"
 	],
 	"inhibit_sublime_completions": false,
 	"line_padding_bottom": 2,
 	"soda_folder_icons": true,
 	"theme": "Soda Dark 3.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true
 }

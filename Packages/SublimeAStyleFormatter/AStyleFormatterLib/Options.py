@@ -19,6 +19,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
+import shlex
 
 
 class ImproperlyConfigured(Exception):
@@ -42,7 +43,7 @@ class RangeError(ImproperlyConfigured):
         return "Value in option '{name}' should be between '{minval}' and " \
                "'{maxval}'".format(name=self._name,
                                    minval=self._minval,
-                                   maxval=self._range_max)
+                                   maxval=self._maxval)
 
 
 def ensure_value_range(option_name, value, minval=None, maxval=None):
@@ -243,3 +244,41 @@ def build_astyle_options(settings, indent_options, convert_tabs=False):
         value = settings[option_name]
         options = function(options, option_name, value)
     return options
+
+
+_BLACK_LIST_MATCH = set([
+    '-n',
+    '--recursive', '-r', '-R',
+    '--dry-run', '--exclude',
+    '--ignore-exclude-errors', '-i',
+    '--ignore-exclude-errors-x', '-xi',
+    '--errors-to-stdout', '-X',
+    '--preserve-date', '-Z',
+    '--verbose', '-v',
+    '--formatted', '-Q',
+    '--quiet', '-q',
+    '--lineend', '-z1', '-z2', '-z3',
+    '--ascii', '-I'
+    '--version', '-V',
+    '--help', '-h', '-?',
+    '--html', '-!',
+])
+
+_BLACK_LIST_STARTS_WITH = set([
+    '--suffix=',
+    '--exclude=',
+])
+
+
+def strip_invalid_options_string(options_string):
+    options = shlex.split(options_string)
+    result = []
+    for option in options:
+        if option in _BLACK_LIST_MATCH:
+            continue
+        if '=' in option:
+            for item in _BLACK_LIST_STARTS_WITH:
+                if option.startswith(item):
+                    continue
+        result.append(option)
+    return ' '.join(result)

@@ -197,7 +197,8 @@ class AstyleformatCommand(sublime_plugin.TextCommand):
 
     @staticmethod
     def _join_options(options_list):
-        return ' '.join(o for o in options_list if o)
+        return Options.strip_invalid_options_string(
+            ' '.join(o for o in options_list if o))
 
     def _get_options(self, syntax, formatting_mode):
         syntax_settings = self._get_syntax_settings(syntax, formatting_mode)
@@ -271,17 +272,24 @@ class AstyleformatCommand(sublime_plugin.TextCommand):
             extra_message = e.extra_message
             error_panel = ErrorMessagePanel("astyle_error_message")
             error_panel.write(
-                "%s: An error occured while processing options: %s\n\n" % (
+                "%s: An error occurred while processing options: %s\n\n" % (
                     PLUGIN_NAME, e))
             if extra_message:
                 error_panel.write("* %s\n" % extra_message)
             error_panel.show()
             return
         # Options ok, format now
-        if selection_only:
-            self.run_selection_only(edit, options)
-        else:
-            self.run_whole_file(edit, options)
+        try:
+            if selection_only:
+                self.run_selection_only(edit, options)
+            else:
+                self.run_whole_file(edit, options)
+        except pyastyle.error as e:
+            error_panel.write(
+                "%s: An error occurred while formatting using astyle: %s\n\n"
+                % (PLUGIN_NAME, e))
+            error_panel.show()
+            return
         if self._get_settings('debug', False):
             log_debug('AStyle version: {0}', pyastyle.version())
             log_debug('AStyle options: ' + options)

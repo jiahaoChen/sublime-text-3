@@ -5,11 +5,8 @@
         "context": [{"key": "clang_supported_language"}],
         "keys": ["alt+right"]
     },
-
     { "keys": ["alt+up"], "command": "jump_back" },
-
     { "keys": ["alt+down"], "command": "jump_forward" },
-
     { 
         "keys": ["alt+l"], "command": "switch_file_deluxe", 
         "args": {
@@ -38,4 +35,6 @@
     },
     { "keys": ["alt+z"], "command": "zoom_pane", "args": {"fraction": 0.7} },
     { "keys": ["alt+shift+z"], "command": "unzoom_pane", "args": {} },
+    { "keys": ["alt+d"], "command": "who_called", "args": {"mode": "def"} },
+    { "keys": ["shift+alt+d"], "command": "who_called", "args": {"mode": "call"} }
 ]

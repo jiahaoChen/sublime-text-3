@@ -1,0 +1,3 @@
+[submodule "Packages/SublimeClang"]
+	path = Packages/SublimeClang
+	url = https://github.com/quarnster/SublimeClang

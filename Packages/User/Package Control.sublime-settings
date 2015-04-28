@@ -6,7 +6,9 @@
 	[
 		"Abacus",
 		"Alignment",
+		"AlignTab",
 		"BracketHighlighter",
+		"BufferScroll",
 		"ConvertToUTF8",
 		"FileHeader",
 		"GitGutter",
@@ -15,6 +17,7 @@
 		"Navigation History",
 		"Origami",
 		"Package Control",
+		"Protocol Buffer Syntax",
 		"Sublime Bookmarks",
 		"SublimeAStyleFormatter",
 		"SublimeCodeIntel",
