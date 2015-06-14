@@ -1,5 +1,5 @@
 {
-    "show_output_panel": false,
+    "show_output_panel": true,
     "options":
     [
         "-std=gnu++11",
