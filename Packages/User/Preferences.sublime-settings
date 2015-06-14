@@ -11,9 +11,9 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"jQuery",
+		"SublimeLinter",
 		"Vintage",
-		"SublimeLinter"
+		"jQuery"
 	],
 	"inhibit_sublime_completions": false,
 	"line_padding_bottom": 2,
