@@ -12,5 +12,6 @@
         "-I/usr/include/c++/4.8/backward/",
         "-I/usr/local/include/",
         "-I/usr/lib/llvm-3.4/lib/clang/3.4/include/",
+        "-I/usr/local/include/breakpad/",
     ]
 }
