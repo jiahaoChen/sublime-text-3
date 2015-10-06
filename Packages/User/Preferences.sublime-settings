@@ -6,14 +6,22 @@
 	"debug_options": true,
 	"dont_prepend_clang_includes": true,
 	"enable_tab_scrolling": false,
+	"file_exclude_patterns":
+	[
+		".tags",
+		".tags_sorted_by_file",
+		".gemtags"
+	],
 	"font_face": "Inconsolata",
-	"font_size": 16,
+	"font_size": 10,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"jQuery",
-		"Vintage",
-		"SublimeLinter"
+		"Navigation History",
+		"SublimeLinter",
+		"Switch Script",
+		"Vintage"
 	],
 	"inhibit_sublime_completions": false,
 	"line_padding_bottom": 2,

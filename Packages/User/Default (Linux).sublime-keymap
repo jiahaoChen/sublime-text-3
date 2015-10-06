@@ -1,5 +1,6 @@
 [
     { "keys": ["alt+left"], "command": "clang_goto_def" },
+    { "keys": ["alt+enter"], "command": "goto_definition" },
     {
         "command": "clang_goto_implementation",
         "context": [{"key": "clang_supported_language"}],

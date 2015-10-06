@@ -1,8 +1,15 @@
 {
     "show_output_panel": false,
+    "additional_language_options":
+    {
+        // For example, you can use "c++": ["-std=c++11"] to enable C++11 features.
+        "c++" : ["-std=c++11"],
+        "c": ["-std=gnu99"],
+        "objc": [],
+        "objc++": []
+    },
     "options":
     [
-        "-std=gnu++11",
         "-I/usr/include/c++/*",
         "-I/usr/include/c++/4.8",
         "-I/usr/include/c++/4.8/*",
