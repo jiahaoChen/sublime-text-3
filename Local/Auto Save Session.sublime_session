@@ -1,0 +1,2276 @@
+{
+	"folder_history":
+	[
+		"/home/sn001/Git/mboot",
+		"/home/jiahao/tmp/log",
+		"/home/jiahao/Git/gst-plugins-good",
+		"/home/jiahao/nfs/JSON",
+		"/home/jiahao/Git/msrgst/mpegtsdemux",
+		"/home/jiahao/Git/curl",
+		"/var",
+		"/usr",
+		"/tmp",
+		"/sys",
+		"/srv",
+		"/sbin",
+		"/run",
+		"/root",
+		"/proc",
+		"/opt",
+		"/mnt",
+		"/media",
+		"/lost+found",
+		"/lib64",
+		"/lib",
+		"/home",
+		"/etc",
+		"/dev",
+		"/cdrom",
+		"/boot",
+		"/bin",
+		"/home/jiahao/tmp/log/log_20150730",
+		"/home/jiahao/nfs/sh",
+		"/home/jiahao/tmp/log/log_20150709",
+		"/home/jiahao/Git/cbox_mediastack/arec_mw/JSON",
+		"/home/jiahao/nfs",
+		"/home/jiahao/Downloads/log",
+		"/home/jiahao/nfs/log",
+		"/home/jiahao/nfs/BugFile",
+		"/home/jiahao/nfs/BugFile/tmp",
+		"/home/jiahao/Downloads/hubot-master",
+		"/home/jiahao/Git/protobuf2json-c",
+		"/home/jiahao/Downloads/log_22",
+		"/home/jiahao/Git/arec_ct/media_engine",
+		"/home/jiahao/Git/arec_ct/media_engine/sw_app/arec_uploader/tester",
+		"/home/jiahao/Downloads/easysqlite-master",
+		"/home/jiahao/Downloads/B964-3376",
+		"/home/jiahao/Git/buildroot/output/host/usr/arm-buildroot-linux-gnueabi/sysroot/usr/include/protobuf-c",
+		"/home/jiahao/Git/rapidjson",
+		"/home/jiahao/TestCode/GLib",
+		"/home/jiahao/Git/msros/modules/msr13/libsrc/cpulimit",
+		"/media/jiahao/8475-CFBA/log_20150304170101",
+		"/home/jiahao/Downloads/log_20150302180228",
+		"/home/jiahao/Git/arec_ct/media_engine/sw_lib/arec_mediadetect/tool",
+		"/home/jiahao/Git/arec_ct/media_engine/sw_lib/arec_mediadetect/testbed",
+		"/home/jiahao/Git/arec_ct/media_engine/sw_lib/arec_mediadetect/demux",
+		"/home/jiahao/Git/arec_ct/media_engine/sw_lib/arec_mediadetect/debug",
+		"/home/jiahao/Git/msros/scripts",
+		"/home/jiahao/Git/msros",
+		"/opt/red5",
+		"/home/jiahao/nfs/DynamicRecordMp4",
+		"/home/jiahao/Downloads/Problems",
+		"/home/jiahao/nfs/01161600_log",
+		"/home/jiahao/Pictures/Vehicles_starter",
+		"/home/jiahao/Downloads/linux sdk/linux-sdk-demo",
+		"/home/jiahao/Lib/nginx-1.5.2",
+		"/home/jiahao/Lib/nginx-rtmp-module-master",
+		"/home/jiahao/Dropbox/Case/WimeConnect_v1_2_0",
+		"/home/jiahao/Dropbox/Case/ZeClock/iOSPlot-master",
+		"/home/jiahao/Git/cbox_mediastack",
+		"/home/jiahao/Lib/glib-2.42.1",
+		"/home/jiahao/Lib/gstreamer-1.4.0",
+		"/home/jiahao/Git/cbox_mediastack/arec_mw",
+		"/home/jiahao/Lib/gstreamer-1.0.6",
+		"/home/jiahao/Git/gst-plugins-base",
+		"/home/jiahao/Git/rtsp_rtp_server",
+		"/home/jiahao/Swift/FlappySwift",
+		"/home/jiahao/TestCode/cbox_export",
+		"/home/jiahao/tools/gperftools-2.1",
+		"/home/jiahao/Git/arec_ct/media_engine/sw_plugin/arec_rtspserver",
+		"/home/jiahao/Git/cbox_mediastack/sw_plugin/arec_rtspserver",
+		"/home/jiahao/Git/arec_ct",
+		"/home/jiahao/Git/msrgui",
+		"/home/jiahao/Git/gst-rtsp-server",
+		"/home/jiahao/Templates/cbox_os/arec_fs/opt/mw/bin/JSON",
+		"/home/jiahao/Git/msr13",
+		"/home/jiahao/Git/cbox_mediastack/sw_plugin",
+		"/home/jiahao/Git/rtmpdump",
+		"/home/jiahao/Lib/ffmpeg",
+		"/home/jiahao/Git/gst-libav",
+		"/home/jiahao/Downloads/gst-libav-1.4.0",
+		"/home/jiahao/Downloads/gst-libav-1.4.0/ext/libav",
+		"/home/jiahao/Downloads/MyFilter",
+		"/home/jiahao/Git/msrgst",
+		"/home/jiahao/Lib/gstreamer",
+		"/home/jiahao/Lib/msr-deb/gstreamer",
+		"/home/jiahao/Git/tmp/msrgui"
+	],
+	"last_version": 3083,
+	"last_window_id": 471,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"clan",
+						"Set Syntax: SublimeClangErrorPanel"
+					],
+					[
+						"sublimeclang",
+						"Preferences: SublimeClang Settings – User"
+					]
+				],
+				"width": 536.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/apiVDEC.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/platform/driver/scart/drvScart.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/apiAUDIO.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/api/xc/msAPI_XC.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_XC.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo.c",
+				"/home/sn001/PERFORCE/THEALE/perforce_theale.sublime-project",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/platform/driver/pq/hal/k1_mstar/include/Kronus_Main.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/DDI_Misc/cus_mstar/app/demo/appDemo_DigiTuner.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/app/demo/appDemo.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D01A.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/bsp/include/drvMIU.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/api/frontend/apiDigiTuner.h",
+				"/home/sn001/.bashrc",
+				"/home/sn001/PERFORCE/THEALE/Uranus/DDI_Misc/cus_mstar/api/frontend/apiDigiTuner.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/platform/driver/demod/drvDemod.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/Board.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/DDI_Misc/cus_mstar/app/demo/appDemo_DigiTuner.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/DDI_Misc/cus_mstar/platform/driver/dtc/drvDTC.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/DDI_Misc/cus_mstar/platform/driver/demod/drvDemod.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/platform/driver/frontend/drvTuner.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/main.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsCommon.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/msAPI_src/pq/hal/u4_mstar/include/Uranus4_Main_inputtype_text.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/config",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/SysInit.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124SZ.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/Customer_Info.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DMX.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/apiDMX.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D01A.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DigiTuner.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/api/frontend/apiDigiTuner.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/api/vdec/msAPI_Video.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/api/vdec/msAPI_Video.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/drvUsbcommon.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_AV.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D02A_S.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/SysInit.c",
+				"/home/sn001/.kermrc",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/sboot/Makefile",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_loader/Makefile",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsOS.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/target.mk",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/Board.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/drvSYS.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/msAPI_src/dte/config",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/Makefile",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/target.mk",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/config",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/ecos/ecos_k1_34kf_fileio_posix_fat_c++_mipsisa32/include/sys/types.h",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo.c",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/sboot/boot.h",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/ecos/ecos_k1_34kf_fileio_posix_fat_c++_mipsisa32/include/cyg/infra/cyg_trac.h",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsTypes.h",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsCommon.h",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/drvUART.h",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsOS.h",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/main.c",
+				"/home/sn001/p4/THEALE/THEALE.sublime-project",
+				"/home/sn001/.config/sublime-text-3/Packages/User/SublimeClang.sublime-settings",
+				"/usr/src/linux-headers-3.8.0-29/include/linux/types.h",
+				"/usr/src/linux-headers-3.8.0-29/arch/x86/include/asm/bitops.h",
+				"/usr/src/linux-headers-3.8.0-29/arch/ia64/include/asm/gcc_intrin.h",
+				"/usr/src/linux-headers-3.8.0-29/include/uapi/asm-generic/int-l64.h",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DMX.h",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DMX.c",
+				"/usr/src/linux-headers-3.8.0-29/include/linux/linkage.h",
+				"/usr/src/linux-headers-3.8.0-29/include/linux/stddef.h",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/unzip/Types.h",
+				"/home/sn001/.config/sublime-text-3/Packages/SublimeClang/sublimeclang.py",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/ecos/ecos_k1_34kf_fileio_posix_fat_c++_mipsisa32/include/cyg/infra/cyg_ass.h",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/ecos/ecos_k1_34kf_fileio_posix_fat_c++_mipsisa32/include/cyg/infra/cyg_type.h",
+				"/home/sn001/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/sboot/loader.c",
+				"/home/sn001/.config/sublime-text-3/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 94.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"std",
+					"appDemo_Zapper_Help",
+					"_appDemo_task",
+					"_appDemo_Task",
+					"_appDemo_task",
+					"_DemoFun",
+					"DemoFun _DemoFun",
+					"_DemoFun",
+					"TestFun",
+					"tuner",
+					"xc_init",
+					"E_DEMOD_LOCK",
+					"EN_LOCK_STATUS",
+					"drvDemod.h",
+					"_Tuner_TryLock",
+					"LOCK",
+					"inSrc",
+					"dmx",
+					"hash",
+					"dem",
+					"demod",
+					"MApi_DigiTuner_GetSNR",
+					"tuner",
+					"tu",
+					"TUNER_PHILIPS_CD1616LF_GIGH_4",
+					"MApi_SystemInit_Init",
+					"CHIP_U4",
+					"drvUsbcommon.h",
+					"apiVDEC.h",
+					"MsCommon",
+					"DemoAV_MVD_GetVideoInfo",
+					"TV_MVD_GetVideoInfo",
+					"Video_GetDecoderStatus",
+					"appDemo_XC_PlayVideo_UsingDefaultSetting",
+					"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/",
+					"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/",
+					"-D",
+					"CFG_NDS_LIB",
+					"CFG_CA",
+					"-D",
+					"DEFS",
+					"tuner",
+					"MS_BOARD_TYPE_SEL",
+					"tunner",
+					"TaskStart",
+					"PTask_Info",
+					"TaskStart",
+					"appDemo_Main",
+					"MS_BOARD_TYPE_SEL",
+					"MApi_SystemInit_Init",
+					"OBJ",
+					"OBJ_C_0",
+					"p4",
+					"greenlion",
+					"ifeq",
+					"MsOSAttribute",
+					"\",\n",
+					"MSOS_TYPE_LINUX_KERNEL",
+					"MsOSAttribute",
+					"MDrv_UART_PutChar",
+					"UART_Result",
+					"drvUART.h",
+					"UART_Result",
+					"ifndef",
+					"mstypes.h",
+					"MsTypes.h",
+					"MS_S32",
+					"add_error_mark(",
+					"\\",
+					"cyg_halcount16",
+					"MS_BOOL",
+					"appDemo_Main",
+					"_type_",
+					"/x86_64-linux-gnu"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.astyle_error_message":
+			{
+				"height": 0.0
+			},
+			"output.clang":
+			{
+				"height": 134.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"appdemo_dmx",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DMX.h"
+					],
+					[
+						"msapi_xc.h",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/api/xc/msAPI_XC.h"
+					],
+					[
+						"appdemo.c",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo.c"
+					],
+					[
+						"main",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/main.c"
+					],
+					[
+						"main.c",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/platform/driver/pq/hal/k1_mstar/include/Kronus_Main.c"
+					],
+					[
+						"mst124d_d",
+						"Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D01A.h"
+					],
+					[
+						"drvmiu",
+						"Uranus/K1/DDI_Package/ddi_pkg_ecos/bsp/include/drvMIU.h"
+					],
+					[
+						"apidigituner.h",
+						"Uranus/DDI_Misc/cus_mstar/api/frontend/apiDigiTuner.h"
+					],
+					[
+						"board",
+						"Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/Board.h"
+					],
+					[
+						"mscomm",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsCommon.h"
+					],
+					[
+						"drvdemod",
+						"Uranus/DDI_Misc/cus_mstar/platform/driver/demod/drvDemod.h"
+					],
+					[
+						"drvdct",
+						"Uranus/DDI_Misc/cus_mstar/platform/driver/dtc/drvDTC.h"
+					],
+					[
+						"drv",
+						"Uranus/DDI_Misc/cus_mstar/platform/driver/dtc/drvDTC.h"
+					],
+					[
+						"demo_digit",
+						"Uranus/DDI_Misc/cus_mstar/app/demo/appDemo_DigiTuner.c"
+					],
+					[
+						"drvdtc.h",
+						"Uranus/DDI_Misc/cus_mstar/platform/driver/dtc/drvDTC.h"
+					],
+					[
+						"appdemo_digi",
+						"Uranus/DDI_Misc/cus_mstar/app/demo/appDemo_DigiTuner.c"
+					],
+					[
+						"demo",
+						"Uranus/DDI_Misc/cus_mstar/app/demo/appDemo_DigiTuner.c"
+					],
+					[
+						"custom_",
+						"Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/Customer_Info.h"
+					],
+					[
+						"bd_mst12",
+						"Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D01A.h"
+					],
+					[
+						"bd_nst12",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124SZ.h"
+					],
+					[
+						"appdemo_digituner.",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DigiTuner.c"
+					],
+					[
+						"bd_mst124d_d01a",
+						"Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D01A.h"
+					],
+					[
+						"bd_mst124d_d02a_s.h",
+						"Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D02A_S.h"
+					],
+					[
+						"demo/config",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/config"
+					],
+					[
+						"drvusbcommon.h",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/drvUsbcommon.h"
+					],
+					[
+						"config",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/msAPI_src/dte/config"
+					],
+					[
+						"target.mk",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/target.mk"
+					],
+					[
+						"makefile",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_loader/Makefile"
+					],
+					[
+						"target",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/target.mk"
+					],
+					[
+						"mstar_demo/config",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/config"
+					],
+					[
+						"msos.h",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsOS.h"
+					],
+					[
+						"drvuart.h",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/drvUART.h"
+					],
+					[
+						"type",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/unzip/Types.h"
+					],
+					[
+						"mstype",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsTypes.h"
+					],
+					[
+						"mstypes.h",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsTypes.h"
+					],
+					[
+						"load",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/sboot/loader.c"
+					],
+					[
+						".c",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/sboot/loader.c"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 314.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "perforce_theale.sublime-project",
+					"settings":
+					{
+						"buffer_size": 3603,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "// Place your settings in the file \"User/CTags.sublime-settings\", which\n// overrides the settings in here.\n{\n    // Enable debugging\n    \"debug\": false,\n\n    // Enable autocomplete\n    \"autocomplete\": false,\n\n    // Alter this value if your ctags command is not in the PATH, or if using\n    // a different version of ctags to that in the path (i.e. for OSX).\n    //\n    // NOTE: You *should not* place entire commands here. These commands are\n    // built automatically using the values below. For example:\n    //   GOOD: \"command\": \"/usr/bin/ctags\"\n    //   BAD:  \"command\": \"ctags -R -f .tags --exclude=some/path\"\n    \"command\": \"\",\n\n    // Set to false to disable recursive search for ctag generation. This\n    // translates the `-R` parameter\n    \"recursive\" : true,\n\n    // Default read/write location of the tags file. This translates to the\n    // `-f [FILENAME]` parameter\n    \"tag_file\" : \".tags\",\n\n    // Additional options to pass to ctags, i.e.\n    // [\"--exclude=some/path\", \"--exclude=some/other/path\", ...]\n    \"opts\" : [],\n\n    //\n    \"filters\": {\n        \"source.python\": {\"type\":\"^i$\"}\n    },\n\n    //\n    \"definition_filters\": {\n        \"source.php\": {\"type\":\"^v$\"}\n    },\n\n    //\n    \"definition_current_first\": true,\n\n    // Show the ctags menu in the context menus\n    \"show_context_menus\": true,\n\n    // Paths to additional tag files to include in tag search. This is a list\n    // of items in the form [[\"language\", \"platform\"], \"path\"]\n    \"extra_tag_paths\": [[[\"source.python\", \"windows\"], \"C:\\\\Python27\\\\Lib\\\\tags\"]],\n\n    // Additional tag files to search\n    \"extra_tag_files\": [\".gemtags\", \"tags\"],\n\n    // Set to false so as not to select searched symbol (in Vintage mode)\n    \"select_searched_symbol\": true\n}\n",
+					"file": "/home/sn001/.config/sublime-text-3/Packages/CTags/CTags.sublime-settings",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 1740,
+						"line_ending": "Unix",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"file": "/home/sn001/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 791,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/sn001/.config/sublime-text-3/Packages/User/CTags.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 73,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo.c",
+					"settings":
+					{
+						"buffer_size": 76535,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/main.c",
+					"settings":
+					{
+						"buffer_size": 12224,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "Uranus/K1_DDI_Branch/eCos/V2.0/CUS/Homecast/cus_mstar/app/demo/appDemo.c",
+					"settings":
+					{
+						"buffer_size": 57715,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/sn001/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 1951,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 210.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Cscope: ",
+						"Cscope: Search for text string"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"cscop",
+						"Cscope: Look up global definition"
+					],
+					[
+						"cscope",
+						"Cscope: Look up global definition"
+					],
+					[
+						"instal ",
+						"Package Control: Install Package"
+					],
+					[
+						"clan",
+						"Set Syntax: SublimeClangErrorPanel"
+					],
+					[
+						"sublimeclang",
+						"Preferences: SublimeClang Settings – User"
+					]
+				],
+				"width": 536.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/sn001/PERFORCE/THEALE"
+			],
+			"file_history":
+			[
+				"/home/sn001/.config/sublime-text-3/Packages/CTags/Default.sublime-keymap",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/main.c",
+				"/home/sn001/.config/sublime-text-3/Packages/User/CTags.sublime-settings",
+				"/home/sn001/.config/sublime-text-3/Packages/User/SublimeClang.sublime-settings",
+				"/home/sn001/.config/sublime-text-3/Packages/SublimeClang/SublimeClang.sublime-settings",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_Audio.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/dapi/DApi_Audio.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/apiAUDIO.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsOS.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/api/vdec/msAPI_Video.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/Makefile",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/SysInit.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/SysInit.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/apiVDEC.h",
+				"/home/sn001/PERFORCE/THEALE/perforce_theale.sublime-project",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/platform/driver/pq/hal/k1_mstar/include/Kronus_Main.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/dapi_demo/appDemo_Display_Test.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DMX.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DMX.h",
+				"/home/sn001/.config/sublime-text-3/Packages/User/CscopeSublime.sublime-settings",
+				"/home/sn001/.config/sublime-text-3/Installed Packages/Cscope.sublime-package",
+				"/home/sn001/.config/sublime-text-3/Packages/CTags/Default.sublime-mousemap",
+				"/home/sn001/.config/sublime-text-3/Tmp/options_script.py",
+				"/home/sn001/Tmp/cmake_option_script.py",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsTypes.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_Zapper.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_Scart.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_Gpio.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_XC.c",
+				"/home/sn001/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/platform/driver/scart/drvScart.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/api/xc/msAPI_XC.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/DDI_Misc/cus_mstar/app/demo/appDemo_DigiTuner.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/app/demo/appDemo.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D01A.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/bsp/include/drvMIU.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/api/frontend/apiDigiTuner.h",
+				"/home/sn001/.bashrc",
+				"/home/sn001/PERFORCE/THEALE/Uranus/DDI_Misc/cus_mstar/api/frontend/apiDigiTuner.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/platform/driver/demod/drvDemod.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/Board.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/DDI_Misc/cus_mstar/app/demo/appDemo_DigiTuner.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/DDI_Misc/cus_mstar/platform/driver/dtc/drvDTC.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/DDI_Misc/cus_mstar/platform/driver/demod/drvDemod.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/platform/driver/frontend/drvTuner.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsCommon.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/msAPI_src/pq/hal/u4_mstar/include/Uranus4_Main_inputtype_text.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/config",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124SZ.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/Customer_Info.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DMX.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/apiDMX.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D01A.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DigiTuner.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/api/frontend/apiDigiTuner.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/api/vdec/msAPI_Video.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/drvUsbcommon.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_AV.c",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D02A_S.h",
+				"/home/sn001/.kermrc",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/sboot/Makefile",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_loader/Makefile",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/target.mk",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/Board.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/drvSYS.h",
+				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/msAPI_src/dte/config",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/Makefile",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/target.mk",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/config",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/ecos/ecos_k1_34kf_fileio_posix_fat_c++_mipsisa32/include/sys/types.h",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo.c",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/sboot/boot.h",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/ecos/ecos_k1_34kf_fileio_posix_fat_c++_mipsisa32/include/cyg/infra/cyg_trac.h",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsTypes.h",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsCommon.h",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/drvUART.h",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsOS.h",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/main.c",
+				"/home/sn001/p4/THEALE/THEALE.sublime-project",
+				"/usr/src/linux-headers-3.8.0-29/include/linux/types.h",
+				"/usr/src/linux-headers-3.8.0-29/arch/x86/include/asm/bitops.h",
+				"/usr/src/linux-headers-3.8.0-29/arch/ia64/include/asm/gcc_intrin.h",
+				"/usr/src/linux-headers-3.8.0-29/include/uapi/asm-generic/int-l64.h",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DMX.h",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DMX.c",
+				"/usr/src/linux-headers-3.8.0-29/include/linux/linkage.h",
+				"/usr/src/linux-headers-3.8.0-29/include/linux/stddef.h",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/unzip/Types.h",
+				"/home/sn001/.config/sublime-text-3/Packages/SublimeClang/sublimeclang.py",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/ecos/ecos_k1_34kf_fileio_posix_fat_c++_mipsisa32/include/cyg/infra/cyg_ass.h",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/ecos/ecos_k1_34kf_fileio_posix_fat_c++_mipsisa32/include/cyg/infra/cyg_type.h",
+				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/sboot/loader.c",
+				"/home/sn001/.config/sublime-text-3/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 94.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"appDemo_Main",
+					"build_systems",
+					"MApi_VDEC_SetFreezeDisp",
+					"MApi_VDEC_SetSpeed",
+					"echo",
+					"FE_AUTO_TEST",
+					"_appDemo_Init",
+					"TaskStart",
+					"appDemo_TSP_Init",
+					"appDemo_Main",
+					"FE_AUTO_TEST",
+					"appDemo_Main",
+					"DAPI_DEMO_ENABLE",
+					"_appDemo_task",
+					"_DemoFun",
+					"F12",
+					"std",
+					"appDemo_Zapper_Help",
+					"_appDemo_task",
+					"_appDemo_Task",
+					"_appDemo_task",
+					"_DemoFun",
+					"DemoFun _DemoFun",
+					"_DemoFun",
+					"TestFun",
+					"tuner",
+					"xc_init",
+					"E_DEMOD_LOCK",
+					"EN_LOCK_STATUS",
+					"drvDemod.h",
+					"_Tuner_TryLock",
+					"LOCK",
+					"inSrc",
+					"dmx",
+					"hash",
+					"dem",
+					"demod",
+					"MApi_DigiTuner_GetSNR",
+					"tuner",
+					"tu",
+					"TUNER_PHILIPS_CD1616LF_GIGH_4",
+					"MApi_SystemInit_Init",
+					"CHIP_U4",
+					"drvUsbcommon.h",
+					"apiVDEC.h",
+					"MsCommon",
+					"DemoAV_MVD_GetVideoInfo",
+					"TV_MVD_GetVideoInfo",
+					"Video_GetDecoderStatus",
+					"appDemo_XC_PlayVideo_UsingDefaultSetting",
+					"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/",
+					"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/",
+					"-D",
+					"CFG_NDS_LIB",
+					"CFG_CA",
+					"-D",
+					"DEFS",
+					"tuner",
+					"MS_BOARD_TYPE_SEL",
+					"tunner",
+					"TaskStart",
+					"PTask_Info",
+					"TaskStart",
+					"appDemo_Main",
+					"MS_BOARD_TYPE_SEL",
+					"MApi_SystemInit_Init",
+					"OBJ",
+					"OBJ_C_0",
+					"p4",
+					"greenlion",
+					"ifeq",
+					"MsOSAttribute",
+					"\",\n",
+					"MSOS_TYPE_LINUX_KERNEL",
+					"MsOSAttribute",
+					"MDrv_UART_PutChar",
+					"UART_Result",
+					"drvUART.h",
+					"UART_Result",
+					"ifndef",
+					"mstypes.h",
+					"MsTypes.h",
+					"MS_S32",
+					"add_error_mark(",
+					"\\",
+					"cyg_halcount16",
+					"MS_BOOL",
+					"appDemo_Main",
+					"_type_",
+					"/x86_64-linux-gnu"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 7,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "perforce_theale.sublime-project",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3603,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1194,
+										1194
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": true,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										223,
+										10,
+										5,
+										18,
+										11,
+										33,
+										0,
+										0,
+										0,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"syntax_mgr_loaded": true,
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 40.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/sn001/.config/sublime-text-3/Packages/CTags/CTags.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1740,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										932,
+										932
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": true,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"syntax_mgr_loaded": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 399.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/sn001/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 791,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										780,
+										780
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": true,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										223,
+										10,
+										5,
+										15,
+										27,
+										20,
+										0,
+										0,
+										0,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"syntax_mgr_loaded": true,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 342.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/sn001/.config/sublime-text-3/Packages/User/CTags.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 73,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										21,
+										21
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": true,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										223,
+										10,
+										6,
+										9,
+										34,
+										21,
+										0,
+										0,
+										0,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"syntax_mgr_loaded": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 76535,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										62444,
+										62444
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										223,
+										10,
+										6,
+										9,
+										3,
+										24,
+										0,
+										0,
+										0,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"syntax": "Packages/C++/C++.tmLanguage",
+									"syntax_mgr_loaded": true,
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 26414.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/main.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12224,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										223,
+										10,
+										6,
+										9,
+										12,
+										11,
+										0,
+										0,
+										0,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/C++/C++.tmLanguage",
+									"syntax_mgr_loaded": true,
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "Uranus/K1_DDI_Branch/eCos/V2.0/CUS/Homecast/cus_mstar/app/demo/appDemo.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 57715,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										54545,
+										54545
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										223,
+										10,
+										5,
+										16,
+										48,
+										13,
+										0,
+										0,
+										0,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"syntax": "Packages/C++/C++.tmLanguage",
+									"syntax_mgr_loaded": true,
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 28941.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/sn001/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1951,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										432,
+										432
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": true,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										223,
+										10,
+										5,
+										13,
+										8,
+										8,
+										0,
+										0,
+										0,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"syntax_mgr_loaded": true,
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 28.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.astyle_error_message":
+			{
+				"height": 0.0
+			},
+			"output.clang":
+			{
+				"height": 134.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1350,687",
+			"project": "perforce_theale.sublime-project",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"main.c",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/main.c"
+					],
+					[
+						"appdemo",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo.c"
+					],
+					[
+						"main",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/main.c"
+					],
+					[
+						"appdemo.c",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo.c"
+					],
+					[
+						"apiaudio",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/dapi/DApi_Audio.c"
+					],
+					[
+						"apivdec.h",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/apiVDEC.h"
+					],
+					[
+						"msapi_video.c",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/api/vdec/msAPI_Video.c"
+					],
+					[
+						"m",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/main.c"
+					],
+					[
+						"sysinit.c",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/SysInit.c"
+					],
+					[
+						"sysinit",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/SysInit.c"
+					],
+					[
+						"appdemo_dmx",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DMX.h"
+					],
+					[
+						"msapi_xc.h",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/api/xc/msAPI_XC.h"
+					],
+					[
+						"mst124d_d",
+						"Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D01A.h"
+					],
+					[
+						"drvmiu",
+						"Uranus/K1/DDI_Package/ddi_pkg_ecos/bsp/include/drvMIU.h"
+					],
+					[
+						"apidigituner.h",
+						"Uranus/DDI_Misc/cus_mstar/api/frontend/apiDigiTuner.h"
+					],
+					[
+						"board",
+						"Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/Board.h"
+					],
+					[
+						"mscomm",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsCommon.h"
+					],
+					[
+						"drvdemod",
+						"Uranus/DDI_Misc/cus_mstar/platform/driver/demod/drvDemod.h"
+					],
+					[
+						"drvdct",
+						"Uranus/DDI_Misc/cus_mstar/platform/driver/dtc/drvDTC.h"
+					],
+					[
+						"drv",
+						"Uranus/DDI_Misc/cus_mstar/platform/driver/dtc/drvDTC.h"
+					],
+					[
+						"demo_digit",
+						"Uranus/DDI_Misc/cus_mstar/app/demo/appDemo_DigiTuner.c"
+					],
+					[
+						"drvdtc.h",
+						"Uranus/DDI_Misc/cus_mstar/platform/driver/dtc/drvDTC.h"
+					],
+					[
+						"appdemo_digi",
+						"Uranus/DDI_Misc/cus_mstar/app/demo/appDemo_DigiTuner.c"
+					],
+					[
+						"demo",
+						"Uranus/DDI_Misc/cus_mstar/app/demo/appDemo_DigiTuner.c"
+					],
+					[
+						"custom_",
+						"Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/Customer_Info.h"
+					],
+					[
+						"bd_mst12",
+						"Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D01A.h"
+					],
+					[
+						"bd_nst12",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124SZ.h"
+					],
+					[
+						"appdemo_digituner.",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DigiTuner.c"
+					],
+					[
+						"bd_mst124d_d01a",
+						"Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D01A.h"
+					],
+					[
+						"bd_mst124d_d02a_s.h",
+						"Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D02A_S.h"
+					],
+					[
+						"demo/config",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/config"
+					],
+					[
+						"drvusbcommon.h",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/drvUsbcommon.h"
+					],
+					[
+						"config",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/msAPI_src/dte/config"
+					],
+					[
+						"target.mk",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/target.mk"
+					],
+					[
+						"makefile",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_loader/Makefile"
+					],
+					[
+						"target",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/target.mk"
+					],
+					[
+						"mstar_demo/config",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/config"
+					],
+					[
+						"msos.h",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsOS.h"
+					],
+					[
+						"drvuart.h",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/drvUART.h"
+					],
+					[
+						"type",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/unzip/Types.h"
+					],
+					[
+						"mstype",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsTypes.h"
+					],
+					[
+						"mstypes.h",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsTypes.h"
+					],
+					[
+						"load",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/sboot/loader.c"
+					],
+					[
+						".c",
+						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/sboot/loader.c"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 151.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 470,
+			"workspace_name": "/home/sn001/PERFORCE/THEALE/perforce_theale.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/sn001/PERFORCE/THEALE/perforce_theale.sublime-workspace",
+			"/home/sn001/Git/mboot/mboot.sublime-workspace",
+			"/home/jiahao/Git/msr13/msr13.sublime-workspace",
+			"/home/jiahao/Git/arec_ct/arec_ct.sublime-workspace",
+			"/home/jiahao/Git/cbox_mediastack/cbox_mediastack.sublime-workspace",
+			"/home/jiahao/Lib/gstreamer-1.4.0/gstreamer-1.4.3.sublime-workspace",
+			"/home/jiahao/Git/msrgst/msrgst.sublime-workspace",
+			"/home/jiahao/Git/msrgui/msrgui.sublime-workspace",
+			"/home/jiahao/Dropbox/CTCI/CTCI.sublime-workspace",
+			"/home/jiahao/Git/curl/curl.sublime-workspace",
+			"/home/jiahao/Git/gst-plugins-good/gst-plugins-good.sublime-workspace",
+			"/home/jiahao/Lib/gstreamer/gstreamer-1.2.0.sublime-workspace",
+			"/home/jiahao/Downloads/linux sdk/linux-sdk-demo/demo.sublime-workspace",
+			"/home/jiahao/Dropbox/Case/WimeConnect_v1_2_0/WimeConnect.sublime-workspace",
+			"/home/jiahao/Dropbox/Case/ZeClock/iOSPlot-master/iosPlot.sublime-workspace",
+			"/home/jiahao/Git/rtsp_rtp_server/rtsp_rtp_server.sublime-workspace",
+			"/home/jiahao/Git/gst-rtsp-server/gst/rtsp-server/gst-rtsp-server.sublime-workspace",
+			"/home/jiahao/Git/arec_ct/media_engine/sw_plugin/arec_rtmp/arec_ct.sublime-workspace",
+			"/home/jiahao/Lib/nginx-rtmp-module-master/nginx-rtmp-module.sublime-workspace"
+		]
+	}
+}
