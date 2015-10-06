@@ -624,6 +624,14 @@
 						"buffer_size": 1951,
 						"line_ending": "Unix"
 					}
+				},
+				{
+					"file": "/home/sn001/.config/sublime-text-3/.gitignore",
+					"settings":
+					{
+						"buffer_size": 14,
+						"line_ending": "Unix"
+					}
 				}
 			],
 			"build_system": "",
@@ -699,6 +707,7 @@
 			],
 			"file_history":
 			[
+				"/home/sn001/.gitignore_global",
 				"/home/sn001/.config/sublime-text-3/Packages/CTags/Default.sublime-keymap",
 				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/main.c",
 				"/home/sn001/.config/sublime-text-3/Packages/User/CTags.sublime-settings",
@@ -918,7 +927,7 @@
 			"groups":
 			[
 				{
-					"selected": 7,
+					"selected": 8,
 					"sheets":
 					[
 						{
@@ -1057,7 +1066,7 @@
 								"translation.y": 40.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 6,
+							"stack_index": 7,
 							"type": "text"
 						},
 						{
@@ -1146,7 +1155,7 @@
 								"translation.y": 399.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 3,
 							"type": "text"
 						},
 						{
@@ -1284,7 +1293,7 @@
 								"translation.y": 342.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 7,
+							"stack_index": 8,
 							"type": "text"
 						},
 						{
@@ -1420,7 +1429,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 6,
 							"type": "text"
 						},
 						{
@@ -1557,7 +1566,7 @@
 								"translation.y": 26414.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 5,
 							"type": "text"
 						},
 						{
@@ -1695,7 +1704,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
@@ -1832,7 +1841,7 @@
 								"translation.y": 28941.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
@@ -1966,6 +1975,141 @@
 									"syntax_mgr_loaded": true,
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/sn001/.config/sublime-text-3/.gitignore",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8,
+										8
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										223,
+										10,
+										6,
+										9,
+										56,
+										41,
+										0,
+										0,
+										0,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"syntax": "Packages/Seti_UI/Langs/Git.tmLanguage",
+									"syntax_mgr_loaded": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
