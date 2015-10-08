@@ -1,7 +1,8 @@
 [
     { "keys": ["alt+left"], "command": "clang_goto_def" },
+    { "keys": ["alt+enter"], "command": "goto_definition" },
     {
-        "command": "clang_goto_implementation",
+        "command": "navigate_to_definition",
         "context": [{"key": "clang_supported_language"}],
         "keys": ["alt+right"]
     },
@@ -20,10 +21,14 @@
                                     ]
                 } 
     },
+    // {
+    //     "command": "clang_reparse",
+    //     "context": [{"key": "clang_supported_language"}],
+    //     "keys": ["alt+r"]
+    // },
     {
-        "command": "clang_reparse",
-        "context": [{"key": "clang_supported_language"}],
-        "keys": ["alt+r"]
+        "keys": ["alt+r"], "command": "astyleformat",
+        "context": [{"key": "astyleformat_is_enabled", "operator": "equal", "operand": ""}]
     },
     {
         "keys": ["alt+r"], "command": "astyleformat", "args": {"selection_only": true},
@@ -36,5 +41,10 @@
     { "keys": ["alt+z"], "command": "zoom_pane", "args": {"fraction": 0.7} },
     { "keys": ["alt+shift+z"], "command": "unzoom_pane", "args": {} },
     { "keys": ["alt+d"], "command": "who_called", "args": {"mode": "def"} },
-    { "keys": ["shift+alt+d"], "command": "who_called", "args": {"mode": "call"} }
+    { "keys": ["shift+alt+d"], "command": "who_called", "args": {"mode": "call"} },
+    { 
+        "keys": ["ctrl+enter", "<character>"], 
+        "command": "easy_motion",
+        "args": {"select_text": false} 
+    },
 ]

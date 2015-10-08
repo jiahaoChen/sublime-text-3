@@ -1,16 +1,24 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Navigation History",
+		"Switch Script"
 	],
 	"installed_packages":
 	[
-		"Abacus",
 		"Alignment",
 		"AlignTab",
+		"Better CoffeeScript",
 		"BracketHighlighter",
-		"BufferScroll",
+		"BrowserBookmarks",
+		"ChangeList",
 		"ConvertToUTF8",
+		"Cscope",
+		"CTags",
+		"EasyMotion",
 		"FileHeader",
+		"Git",
 		"GitGutter",
 		"jQuery",
 		"JsFormat",
@@ -19,16 +27,20 @@
 		"Origami",
 		"Package Control",
 		"Protocol Buffer Syntax",
+		"Seti_UI",
+		"Seti_UX",
+		"SideBarEnhancements",
 		"Sublime Bookmarks",
 		"SublimeAStyleFormatter",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-cppcheck",
+		"SublimeLinter-cpplint",
 		"SublimeREPL",
 		"Swift",
 		"Switch File Deluxe",
 		"Switch Script",
 		"Syntax Manager",
-		"Tag",
 		"Theme - Soda"
 	]
 }

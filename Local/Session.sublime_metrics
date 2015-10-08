@@ -1,0 +1,20 @@
+{
+	"packages":
+	[
+		"Abacus",
+		"Alignment",
+		"BracketHighlighter",
+		"GitGutter",
+		"JsFormat",
+		"Package Control",
+		"SublimeLinter-cpplint",
+		"Switch File Deluxe",
+		"Tag",
+		"Theme - Soda"
+	],
+	"syntax":
+	{
+		"C++": 11
+	},
+	"time": 1409727550
+}
