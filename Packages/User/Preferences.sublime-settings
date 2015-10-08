@@ -11,14 +11,18 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage",
 		"jQuery",
-		"SublimeLinter"
+		"Navigation History",
+		"SublimeLinter",
+		"Switch Script",
+		"Vintage"
 	],
 	"inhibit_sublime_completions": false,
 	"line_padding_bottom": 2,
 	"soda_folder_icons": true,
 	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"word_wrap": true
+	"word_wrap": true, 
+	"theme": "Seti.sublime-theme",
+  	"color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
 }
