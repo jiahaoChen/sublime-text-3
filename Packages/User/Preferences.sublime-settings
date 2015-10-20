@@ -2,9 +2,7 @@
 	"always_show_minimap_viewport": true,
 	"caret_extra_width": 2,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/Sunburst (SL).tmTheme",
-	"debug_options": true,
-	"dont_prepend_clang_includes": true,
+	"color_scheme": "Packages/User/SublimeLinter/Sunburst (SL).tmTheme",
 	"enable_tab_scrolling": false,
 	"file_exclude_patterns":
 	[
@@ -12,29 +10,24 @@
 		".tags_sorted_by_file",
 		".gemtags"
 	],
-	"font_face": "Inconsolata",
-	"font_size": 10,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
+	"font_size": 14,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"jQuery",
-		"Navigation History",
-		"SublimeLinter",
-		"Switch Script",
 		"Vintage"
 	],
-	"inhibit_sublime_completions": false,
+	"inhibit_sublime_completions": true,
 	"line_padding_bottom": 2,
-	"settings":
-	{
-		"sublimeclang_options":
-		[
-			"-ferror-limit=0",
-			"-std=gnu++11"
-		]
-	},
 	"soda_folder_icons": true,
 	"theme": "Seti_orig.sublime-theme",
 	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
 }

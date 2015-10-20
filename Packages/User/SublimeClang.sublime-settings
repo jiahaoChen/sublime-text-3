@@ -1,24 +1,48 @@
 {
     "show_output_panel": false,
+    // "dont_prepend_clang_includes": true,
     "additional_language_options":
     {
-        // For example, you can use "c++": ["-std=c++11"] to enable C++11 features.
-        "c++" : ["-std=c++11"],
-        "c": ["-std=gnu99"],
-        "objc": [],
-        "objc++": []
+        "c++" :
+        [
+            "-std=gnu++11",
+        ],
+        "c":
+        [
+            "-std=gnu11"
+        ],
     },
     "options":
     [
-        "-I/usr/include/c++/*",
-        "-I/usr/include/c++/4.8",
-        "-I/usr/include/c++/4.8/*",
-        "-I/usr/lib/gcc/x86_64-linux-gnu/4.8/include/",
-        "-I/usr/lib/gcc/x86_64-linux-gnu/4.8/include/*",
-        "-I/usr/include/x86_64-linux-gnu/c++/4.8/",
-        "-I/usr/include/c++/4.8/backward/",
-        "-I/usr/local/include/",
-        "-I/usr/lib/llvm-3.4/lib/clang/3.4/include/",
-        "-I/usr/local/include/breakpad/",
+        "-m32",
+        "-w",
+        "-ferror-limit=0",
+        "-fgnu-runtime",
+        "-fms-extensions",
+        "-nostdinc",
+        "-isystem", "C:/cygwin64/usr/include",
+        "-isystem", "C:/cygwin64/usr/include/*",
+        "-isystem", "C:/cygwin64/lib/gcc/x86_64-pc-cygwin/4.9.3/include",
+        "-isystem", "C:/cygwin64/lib/gcc/x86_64-pc-cygwin/4.9.3/include/c++",
+        "-isystem", "C:/cygwin64/lib/gcc/x86_64-pc-cygwin/4.9.3/include/c++/*",
+        // "-D__GNUC__=4",
+        // "-D__GNUC_MINOR__=2",
+        // "-D__GNUC_PATCHLEVEL__=1",
+        // "-D__GXX_ABI_VERSION__=1002",
+        // "-Di386=1",
+        // "-D__i386=1",
+        // "-D__i386__=1",
+        // "-DWIN32=1",
+        // "-D_WIN32=1",
+        // "-D__WIN32=1",
+        // "-D__WIN32__=1",
+        // "-DWINNT=1",
+        // "-D__WINNT=1",
+        // "-D__WINNT__=1",
+        // "-D_X86_=1",
+        // "-D__MSVCRT__=1",
+        // "-D__MINGW32__=1",
+        // "-D__STDC_VERSION__=201112L"
     ]
 }
+

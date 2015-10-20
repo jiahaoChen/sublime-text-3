@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 # @Author: lime
 # @Date:   2013-10-28 13:39:48
-# @Last Modified by:   jiahao
-# @Last Modified time: 2015-03-16 10:36:31
+# @Last Modified by:   Lime
+# @Last Modified time: 2015-01-12 09:51:33
 
 import os
 import sys
@@ -237,8 +237,7 @@ def get_args(syntax_type, options={}):
         'last_modified_time': m_time.strftime(format),
         'file_name': file_name,
         'file_name_without_extension': file_name_without_extension,
-        'file_path' : file_path,
-        'file_name_upper' : file_name_without_extension.upper()
+        'file_path' : file_path
     })
 
     if IS_ST3:

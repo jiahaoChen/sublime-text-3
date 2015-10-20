@@ -118,8 +118,7 @@
         "sql": "SQL",
         "tcl": "TCL",
         "txt": "Text",
-        "xml": "XML",
-        "h": "C++"
+        "xml": "XML"
     },
     /*
     Set special file suffix equivalence. Take `blade.php` for example,

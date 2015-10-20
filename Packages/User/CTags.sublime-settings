@@ -1,4 +1,4 @@
 {
-  "command": "/usr/bin/ctags", 
-  "autocomplete": true               
+	"command": "D:\\Tools\\ctags.exe",
+    // "autocomplete": true,
 }
