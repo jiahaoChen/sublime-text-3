@@ -1,112 +1,30 @@
 {
 	"folder_history":
 	[
-		"/home/sn001/Git/mboot",
-		"/home/jiahao/tmp/log",
-		"/home/jiahao/Git/gst-plugins-good",
-		"/home/jiahao/nfs/JSON",
-		"/home/jiahao/Git/msrgst/mpegtsdemux",
-		"/home/jiahao/Git/curl",
-		"/var",
-		"/usr",
-		"/tmp",
-		"/sys",
-		"/srv",
-		"/sbin",
-		"/run",
-		"/root",
-		"/proc",
-		"/opt",
-		"/mnt",
-		"/media",
-		"/lost+found",
-		"/lib64",
-		"/lib",
-		"/home",
-		"/etc",
-		"/dev",
-		"/cdrom",
-		"/boot",
-		"/bin",
-		"/home/jiahao/tmp/log/log_20150730",
-		"/home/jiahao/nfs/sh",
-		"/home/jiahao/tmp/log/log_20150709",
-		"/home/jiahao/Git/cbox_mediastack/arec_mw/JSON",
-		"/home/jiahao/nfs",
-		"/home/jiahao/Downloads/log",
-		"/home/jiahao/nfs/log",
-		"/home/jiahao/nfs/BugFile",
-		"/home/jiahao/nfs/BugFile/tmp",
-		"/home/jiahao/Downloads/hubot-master",
-		"/home/jiahao/Git/protobuf2json-c",
-		"/home/jiahao/Downloads/log_22",
-		"/home/jiahao/Git/arec_ct/media_engine",
-		"/home/jiahao/Git/arec_ct/media_engine/sw_app/arec_uploader/tester",
-		"/home/jiahao/Downloads/easysqlite-master",
-		"/home/jiahao/Downloads/B964-3376",
-		"/home/jiahao/Git/buildroot/output/host/usr/arm-buildroot-linux-gnueabi/sysroot/usr/include/protobuf-c",
-		"/home/jiahao/Git/rapidjson",
-		"/home/jiahao/TestCode/GLib",
-		"/home/jiahao/Git/msros/modules/msr13/libsrc/cpulimit",
-		"/media/jiahao/8475-CFBA/log_20150304170101",
-		"/home/jiahao/Downloads/log_20150302180228",
-		"/home/jiahao/Git/arec_ct/media_engine/sw_lib/arec_mediadetect/tool",
-		"/home/jiahao/Git/arec_ct/media_engine/sw_lib/arec_mediadetect/testbed",
-		"/home/jiahao/Git/arec_ct/media_engine/sw_lib/arec_mediadetect/demux",
-		"/home/jiahao/Git/arec_ct/media_engine/sw_lib/arec_mediadetect/debug",
-		"/home/jiahao/Git/msros/scripts",
-		"/home/jiahao/Git/msros",
-		"/opt/red5",
-		"/home/jiahao/nfs/DynamicRecordMp4",
-		"/home/jiahao/Downloads/Problems",
-		"/home/jiahao/nfs/01161600_log",
-		"/home/jiahao/Pictures/Vehicles_starter",
-		"/home/jiahao/Downloads/linux sdk/linux-sdk-demo",
-		"/home/jiahao/Lib/nginx-1.5.2",
-		"/home/jiahao/Lib/nginx-rtmp-module-master",
-		"/home/jiahao/Dropbox/Case/WimeConnect_v1_2_0",
-		"/home/jiahao/Dropbox/Case/ZeClock/iOSPlot-master",
-		"/home/jiahao/Git/cbox_mediastack",
-		"/home/jiahao/Lib/glib-2.42.1",
-		"/home/jiahao/Lib/gstreamer-1.4.0",
-		"/home/jiahao/Git/cbox_mediastack/arec_mw",
-		"/home/jiahao/Lib/gstreamer-1.0.6",
-		"/home/jiahao/Git/gst-plugins-base",
-		"/home/jiahao/Git/rtsp_rtp_server",
-		"/home/jiahao/Swift/FlappySwift",
-		"/home/jiahao/TestCode/cbox_export",
-		"/home/jiahao/tools/gperftools-2.1",
-		"/home/jiahao/Git/arec_ct/media_engine/sw_plugin/arec_rtspserver",
-		"/home/jiahao/Git/cbox_mediastack/sw_plugin/arec_rtspserver",
-		"/home/jiahao/Git/arec_ct",
-		"/home/jiahao/Git/msrgui",
-		"/home/jiahao/Git/gst-rtsp-server",
-		"/home/jiahao/Templates/cbox_os/arec_fs/opt/mw/bin/JSON",
-		"/home/jiahao/Git/msr13",
-		"/home/jiahao/Git/cbox_mediastack/sw_plugin",
-		"/home/jiahao/Git/rtmpdump",
-		"/home/jiahao/Lib/ffmpeg",
-		"/home/jiahao/Git/gst-libav",
-		"/home/jiahao/Downloads/gst-libav-1.4.0",
-		"/home/jiahao/Downloads/gst-libav-1.4.0/ext/libav",
-		"/home/jiahao/Downloads/MyFilter",
-		"/home/jiahao/Git/msrgst",
-		"/home/jiahao/Lib/gstreamer",
-		"/home/jiahao/Lib/msr-deb/gstreamer",
-		"/home/jiahao/Git/tmp/msrgui"
+		"/home/try/GstCode",
+		"/home/try/qt/qtwayland/examples/wayland/qwindow-compositor",
+		"/home/try/qt/qtbase/examples/opengl/hellowindow"
 	],
-	"last_version": 3083,
-	"last_window_id": 471,
+	"last_version": 3103,
+	"last_window_id": 5,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 480.0,
+		"new_window_height": 0.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"hello",
+						"hellofunc"
+					],
+					[
+						"INCLU",
+						"INCLUDEDIR"
+					]
 				]
 			},
 			"build_system_choices":
@@ -115,24 +33,36 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 400.0,
-				"last_filter": "",
+				"height": 392.0,
+				"last_filter": "pret",
 				"selected_items":
 				[
 					[
-						"clan",
-						"Set Syntax: SublimeClangErrorPanel"
+						"pret",
+						"HTMLPrettify"
 					],
 					[
-						"sublimeclang",
-						"Preferences: SublimeClang Settings – User"
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
 					]
 				],
-				"width": 536.0
+				"width": 449.0
 			},
 			"console":
 			{
-				"height": 139.0,
+				"height": 379.0,
 				"history":
 				[
 					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
@@ -149,90 +79,142 @@
 			},
 			"file_history":
 			[
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/apiVDEC.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/platform/driver/scart/drvScart.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/apiAUDIO.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/api/xc/msAPI_XC.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_XC.c",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo.c",
-				"/home/sn001/PERFORCE/THEALE/perforce_theale.sublime-project",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/platform/driver/pq/hal/k1_mstar/include/Kronus_Main.c",
-				"/home/sn001/PERFORCE/THEALE/Uranus/DDI_Misc/cus_mstar/app/demo/appDemo_DigiTuner.c",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/app/demo/appDemo.c",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D01A.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/bsp/include/drvMIU.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/api/frontend/apiDigiTuner.h",
-				"/home/sn001/.bashrc",
-				"/home/sn001/PERFORCE/THEALE/Uranus/DDI_Misc/cus_mstar/api/frontend/apiDigiTuner.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/platform/driver/demod/drvDemod.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/Board.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/DDI_Misc/cus_mstar/app/demo/appDemo_DigiTuner.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/DDI_Misc/cus_mstar/platform/driver/dtc/drvDTC.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/DDI_Misc/cus_mstar/platform/driver/demod/drvDemod.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/platform/driver/frontend/drvTuner.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/main.c",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsCommon.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/msAPI_src/pq/hal/u4_mstar/include/Uranus4_Main_inputtype_text.c",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/config",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/SysInit.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124SZ.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/Customer_Info.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DMX.c",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/apiDMX.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D01A.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DigiTuner.c",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/api/frontend/apiDigiTuner.c",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/api/vdec/msAPI_Video.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/api/vdec/msAPI_Video.c",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/drvUsbcommon.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_AV.c",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D02A_S.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/SysInit.c",
-				"/home/sn001/.kermrc",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/sboot/Makefile",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_loader/Makefile",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsOS.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/target.mk",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/Board.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/drvSYS.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/msAPI_src/dte/config",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/Makefile",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/target.mk",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/config",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/ecos/ecos_k1_34kf_fileio_posix_fat_c++_mipsisa32/include/sys/types.h",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo.c",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/sboot/boot.h",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/ecos/ecos_k1_34kf_fileio_posix_fat_c++_mipsisa32/include/cyg/infra/cyg_trac.h",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsTypes.h",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsCommon.h",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/drvUART.h",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsOS.h",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/main.c",
-				"/home/sn001/p4/THEALE/THEALE.sublime-project",
-				"/home/sn001/.config/sublime-text-3/Packages/User/SublimeClang.sublime-settings",
-				"/usr/src/linux-headers-3.8.0-29/include/linux/types.h",
-				"/usr/src/linux-headers-3.8.0-29/arch/x86/include/asm/bitops.h",
-				"/usr/src/linux-headers-3.8.0-29/arch/ia64/include/asm/gcc_intrin.h",
-				"/usr/src/linux-headers-3.8.0-29/include/uapi/asm-generic/int-l64.h",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DMX.h",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DMX.c",
-				"/usr/src/linux-headers-3.8.0-29/include/linux/linkage.h",
-				"/usr/src/linux-headers-3.8.0-29/include/linux/stddef.h",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/unzip/Types.h",
-				"/home/sn001/.config/sublime-text-3/Packages/SublimeClang/sublimeclang.py",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/ecos/ecos_k1_34kf_fileio_posix_fat_c++_mipsisa32/include/cyg/infra/cyg_ass.h",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/ecos/ecos_k1_34kf_fileio_posix_fat_c++_mipsisa32/include/cyg/infra/cyg_type.h",
-				"/home/sn001/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/sboot/loader.c",
-				"/home/sn001/.config/sublime-text-3/Packages/User/Preferences.sublime-settings"
+				"/home/try/Workspace/gstreamer1.0-plugins-bad/1.2.3-r0-arago5/build/arm-linux-gnueabi-libtool",
+				"/home/try/Workspace/gstreamer1.0-plugins-bad/1.2.3-r0-arago5/build/gst-libs/gst/drm/libgstdrm-1.0.la",
+				"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/targetNFS/home/root/gst-pipeline1.sh",
+				"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/targetNFS/home/root/gst-pipeline2.sh",
+				"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/targetNFS/home/root/gst-pipeline3.sh",
+				"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/targetNFS/home/root/gst-pipeline0.sh",
+				"/home/try/Workspace/gstreamer1.0-plugins-bad/1.2.3-r0-arago5/build/ext/wayland/Makefile",
+				"/home/try/.kermrc",
+				"/home/try/.kermit",
+				"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/targetNFS/usr/lib/libdrm_omap.la",
+				"/home/try/GstCode/gst-plugins-bad/gst-libs/gst/egl/libgstegl-1.0.la",
+				"/home/try/GitDownload/qt-gstreamer/README",
+				"/home/try/.bashrc",
+				"/home/try/qt/qtbase/src/widgets/itemviews/qlistview_p.h",
+				"/home/try/GstCode/gst-plugins-bad/ext/wayland/Makefile",
+				"/home/try/Tmp/U-Boot SPL 2015.07 (Jan 28 2016 - 14:19:33)",
+				"/home/try/qt/qtscript/src/script/api/qscriptengine.cpp",
+				"/media/try/1DE9-3E3B1/aten-apps/qtexample/aten-layout-change-demo/demo/demo.pro",
+				"/home/try/qt/qtwebkit/WebKit.pro",
+				"/home/try/qt/qtwebkit/config.log",
+				"/home/try/qt/qtbase/include/QtWidgets/5.5.1/QtWidgets/private/qlistview_p.h",
+				"/home/try/qt/qtbase/src/gui/painting/qpagedpaintdevice.h",
+				"/home/try/qt/qtbase/src/gui/painting/qpagedpaintdevice.cpp",
+				"/home/try/qt/qtbase/include/QtGui/qpagedpaintdevice.h",
+				"/include/QtGui/qpagedpaintdevice.h",
+				"/home/try/Workspace/TestWidget/build-DemoDesktopWidget-Desktop_Qt_5_5_1_GCC_64bit-Debug/Makefile",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/demo/resource.qrc",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/demo/dockmenu.cpp",
+				"/home/try/qt/qtbase/config.status",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/demo/dockmenu.h",
+				"/home/try/Workspace/TestWidget/build-DemoDesktopWidget-Qt_5_5_1_qt5-Debug/Makefile",
+				"/home/try/qt/qtbase/src/gui/text/qfragmentmap_p.h",
+				"/home/try/qt/qtbase/include/QtGui/5.5.1/QtGui/private/qfragmentmap_p.h",
+				"/home/try/src/gui/painting/qpagedpaintdevice.h",
+				"/home/try/qt/qtbase/src/corelib/global/qconfig-nacl.h",
+				"/home/try/qt/qtbase/src/corelib/global/qconfig.h",
+				"/home/try/qt/qtbase/src/corelib/global/qconfig-large.h",
+				"/home/try/qt/qtbase/src/corelib/global/qconfig-local.h",
+				"/home/try/qt/qtwebkit/.qmake.conf",
+				"/home/try/Workspace/ImagePorecssor/imageprocessor.cpp",
+				"/home/try/qt/qtmultimedia/qgstreamerbushelper.cpp",
+				"/home/try/Workspace/TestWidget/DemoDesktopWidget/resource.qrc",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/demo/gst-pipeline3.sh",
+				"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/example-applications/qt-opencv-opencl-opengl-multithreaded-1.3.3/Makefile",
+				"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/setup.sh",
+				"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/Rules.make",
+				"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/linux-devkit/environment-setup",
+				"/usr/local/Qt-5.5.1/include/QtGui/qpagedpaintdevice.h",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/demo/gst-pipeline0.sh",
+				"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/example-applications/qt-opencv-opencl-opengl-multithreaded-1.3.3/Makefile.build",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/demo/demo.pro",
+				"/home/try/Workspace/aten-apps/.gitignore",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/demo/layoutwidget.cpp",
+				"/home/try/Apps/Wayland/weston/weston.ini",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/demo/gst-pipeline1.sh",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/demo/gst-pipeline2.sh",
+				"/home/try/Qt5.5.1/Examples/Qt-5.5/designer/build-worldtimeclockplugin-Desktop_Qt_5_5_1_GCC_64bit-Debug/Makefile",
+				"/home/try/Qt5.5.1/5.5/gcc_64/include/analogclock.h",
+				"/home/try/Apps/Wayland/examples/widgets/widgets/analogclock/analogclock.h",
+				"/home/try/qt5/qtbase/examples/widgets/widgets/analogclock/analogclock.h",
+				"/usr/local/Qt-5.7.0/examples/widgets/widgets/analogclock/analogclock.h",
+				"/home/try/Workspace/TestWidget/ui_widget.h",
+				"/home/try/Documents/cpub-chrome-RDS-CmsRdsh.rdp",
+				"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/example-applications/qt-opencv-opencl-opengl-multithreaded-1.3.3/qt-opencv-opencl-opengl-multithreaded.pro",
+				"/usr/share/applications/defaults.list",
+				"/home/try/.local/share/applications/defaults.list",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/build-demo-Qt_5_5_1_qt5-Release/gst-pipeline1.sh",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/build-demo-Desktop_Qt_5_5_1_GCC_64bit-Debug/gst-pipeline0.sh",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/build-demo-Desktop_Qt_5_5_1_GCC_64bit-Debug/gst-pipeline1.sh",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/build-demo-Desktop_Qt_5_5_1_GCC_64bit-Debug/gst-pipeline2.sh",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/build-demo-Desktop_Qt_5_5_1_GCC_64bit-Debug/gst-pipeline3.sh",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/build-demo-Qt_5_5_1_qt5-Release/gst-pipeline0.sh",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/build-demo-Qt_5_5_1_qt5-Release/gst-pipeline2.sh",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/build-demo-Qt_5_5_1_qt5-Release/gst-pipeline3.sh",
+				"/home/try/GstCode/qt-gstreamer/README",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/demo/gst-pipeline1.txt",
+				"/home/try/GitDownload/swc/cursor/local.mk",
+				"/home/try/GitDownload/swc/launch/local.mk",
+				"/home/try/GitDownload/swc/libswc/local.mk",
+				"/home/try/GitDownload/swc/protocol/local.mk",
+				"/home/try/GitDownload/swc/example/local.mk",
+				"/home/try/Workspace/TestMakefile/Makefile",
+				"/home/try/Workspace/TestMakefile/hellomake.h",
+				"/home/try/Workspace/TestMakefile/hellofunc.c",
+				"/home/try/Workspace/TestMakefile/hellomake.c",
+				"/home/try/GitDownload/wld/config.mk",
+				"/home/try/GitDownload/wld/protocol/wayland-drm-client-protocol.h",
+				"/home/try/GitDownload/wld/wayland-drm.c",
+				"/home/try/GitDownload/swc/Makefile",
+				"/home/try/GitDownload/wld/Makefile",
+				"/home/try/GitDownload/swc/launch/log",
+				"/home/try/GstCode/qt-gstreamer/build/CMakeFiles/CMakeError.log",
+				"/home/try/Workspace/TestMakefile/Mak",
+				"/home/try/GitDownload/swc/common.mk",
+				"/home/try/Workspace/aten-apps/omapdrmtest/Makefile",
+				"/home/try/GitDownload/swc/config.mk",
+				"/home/try/GitDownload/swc/launch/launch.c",
+				"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/linux-devkit/sysroots/cortexa15hf-vfp-neon-linux-gnueabi/usr/include/xf86drm.h",
+				"/home/try/GitDownload/swc/README.md",
+				"/home/try/GitDownload/swc/protocol/swc.xml",
+				"/home/try/GitDownload/velox/protocol/velox.xml",
+				"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/Makefile",
+				"/home/try/GitDownload/dmenu/config.mk",
+				"/home/try/.velox.conf",
+				"/home/try/Downloads/eclipse/plugins/org.eclipse.ui.themes_1.1.1.v20151026-1355/css/e4-dark.css",
+				"/home/try/Downloads/eclipse/plugins/org.eclipse.ui.themes_1.1.1.v20151026-1355/css/dark/e4-dark_globalstyle.css",
+				"/home/try/Downloads/eclipse/plugins/org.eclipse.ui.themes_1.1.1.v20151026-1355/css/dark/e4-dark_partstyle.css",
+				"/home/try/GitDownload/gst-wayland-gtk-demo/Makefile",
+				"/home/try/Workspace/aten-apps/qtexample/simple-qt-gst-demo/gstwaylanddemo.pro",
+				"/home/try/Apps/Wayland/weston/Demo/pointer.c",
+				"/home/try/Apps/Wayland/weston/Demo/keyboard.c",
+				"/home/try/GitDownload/mazecompositor/Makefile",
+				"/home/try/GitDownload/motorcar/Makefile",
+				"/home/try/GitDownload/motorcar/src/examples/clients/simple-egl/motorcar-client-protocol.h",
+				"/home/try/GitDownload/motorcar/src/examples/compositors/simple-compositor/Makefile",
+				"/home/try/GitDownload/motorcar/build.sh",
+				"/home/try/GitDownload/mazecompositor/view.h",
+				"/home/try/GitDownload/swc/launch/env.source",
+				"/home/try/GitDownload/velox/protocol/velox-client-protocol.h",
+				"/home/try/GitDownload/velox/protocol/velox-protocol.c",
+				"/home/try/GitDownload/velox/clients/status_bar.c",
+				"/home/try/Tmp/wayland.xml",
+				"/home/try/Apps/Wayland/weston/Demo/Makefile",
+				"/home/try/GitDownload/mazecompositor/mazecompositor.pro",
+				"/home/try/GitDownload/velox/Makefile",
+				"/home/try/GitDownload/velox/protocol/swc-client-protocol.h",
+				"/home/try/GitDownload/mazecompositor/qmake",
+				"/home/try/Apps/Wayland/weston/Makefile"
 			],
 			"find":
 			{
-				"height": 34.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
-				"height": 94.0,
+				"height": 93.0,
 				"where_history":
 				[
 					""
@@ -243,80 +225,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"std",
-					"appDemo_Zapper_Help",
-					"_appDemo_task",
-					"_appDemo_Task",
-					"_appDemo_task",
-					"_DemoFun",
-					"DemoFun _DemoFun",
-					"_DemoFun",
-					"TestFun",
-					"tuner",
-					"xc_init",
-					"E_DEMOD_LOCK",
-					"EN_LOCK_STATUS",
-					"drvDemod.h",
-					"_Tuner_TryLock",
-					"LOCK",
-					"inSrc",
-					"dmx",
-					"hash",
-					"dem",
-					"demod",
-					"MApi_DigiTuner_GetSNR",
-					"tuner",
-					"tu",
-					"TUNER_PHILIPS_CD1616LF_GIGH_4",
-					"MApi_SystemInit_Init",
-					"CHIP_U4",
-					"drvUsbcommon.h",
-					"apiVDEC.h",
-					"MsCommon",
-					"DemoAV_MVD_GetVideoInfo",
-					"TV_MVD_GetVideoInfo",
-					"Video_GetDecoderStatus",
-					"appDemo_XC_PlayVideo_UsingDefaultSetting",
-					"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/",
-					"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/",
-					"-D",
-					"CFG_NDS_LIB",
-					"CFG_CA",
-					"-D",
-					"DEFS",
-					"tuner",
-					"MS_BOARD_TYPE_SEL",
-					"tunner",
-					"TaskStart",
-					"PTask_Info",
-					"TaskStart",
-					"appDemo_Main",
-					"MS_BOARD_TYPE_SEL",
-					"MApi_SystemInit_Init",
-					"OBJ",
-					"OBJ_C_0",
-					"p4",
-					"greenlion",
-					"ifeq",
-					"MsOSAttribute",
-					"\",\n",
-					"MSOS_TYPE_LINUX_KERNEL",
-					"MsOSAttribute",
-					"MDrv_UART_PutChar",
-					"UART_Result",
-					"drvUART.h",
-					"UART_Result",
-					"ifndef",
-					"mstypes.h",
-					"MsTypes.h",
-					"MS_S32",
-					"add_error_mark(",
-					"\\",
-					"cyg_halcount16",
-					"MS_BOOL",
-					"appDemo_Main",
-					"_type_",
-					"/x86_64-linux-gnu"
+					"VPATH",
+					"thomas",
+					"/home/thomas/aten/gcc-linaro-4.9/arm-linux-gnueabihf/lib",
+					"/home/thomas/aten/gcc-linaro-4.9/lib/gcc",
+					"/home/thomas/aten/gcc-linaro-4.9/lib/gcc/arm-linux-gnueabihf",
+					"/home/thomas/aten/gcc-linaro-4.9/lib/gcc/arm-linux-gnueabihf/4.9.3",
+					"/home/thomas/aten/gcc-linaro-4.9/arm-linux-gnueabihf/include",
+					"/home/thomas/aten/tisdk/build/arago-tmp-external-linaro-toolchain/sysroots/am57xx-evm",
+					"thomas",
+					"/home/thomas/aten/tisdk/build/arago-tmp-external-linaro-toolchain/sysroots/x86_64-linux/",
+					"/home/thomas/aten/tisdk/build/arago-tmp-external-linaro-toolchain/sysroots/am57xx-evm",
+					"thomas",
+					"/home/thomas/aten/gcc-linaro-4.9/arm-linux-gnueabihf/",
+					"la",
+					"libdrm",
+					"libdrm_omap.la",
+					"/home/thomas/aten/tisdk/build/arago-tmp-external-linaro-toolchain/sysroots/am57xx-evm/",
+					"/home/thomas/aten/tisdk/build/arago-tmp-external-linaro-toolchain/work/am57xx_evm-linux-gnueabi/",
+					"thomas",
+					"dd",
+					"QPagedPaintDevicePrivate",
+					"QPagedPaintDevice",
+					"QPagedPaintDevicePrivate",
+					"ssl",
+					"void",
+					"Btns",
+					"void",
+					"static",
+					"_",
+					"static",
+					"}",
+					";",
+					"SUBLIBS",
+					"AnalogClock",
+					"SUBLIBS",
+					"-L",
+					"AnalogClock",
+					"UI",
+					"fade",
+					"void",
+					"show",
+					"sublime_text",
+					"gedit",
+					"boot_vga",
+					"intel",
+					"LD_LIBRARY_PATH",
+					"DRM_DRIVERS",
+					"WLD_SOURCES",
+					"WLD_SHARED_OBJECTS",
+					"DESTDIR",
+					"LIBDIR",
+					"CC",
+					"pixman-1",
+					"PACKAGE_LIBS",
+					"example",
+					"SUBDIRS",
+					"launch",
+					"drmSetMaster",
+					"SWC_PC_VARS",
+					"LIBDIR",
+					"INCLUDEDIR",
+					"LIBDIR",
+					"LIBDIR\\",
+					"LIBDIR",
+					"PACKAGES",
+					"libdrm",
+					"drm",
+					"drmSetMaster",
+					"INCLUDE",
+					"TI_SDK_PATH",
+					"INCLUDES",
+					"INCLUDE",
+					"_LIBS",
+					"CC",
+					"LIBDIR",
+					"swc.pc.in",
+					"swc.pc",
+					"TARGETS",
+					"swc.pc",
+					"TARGETS",
+					"?",
+					"          ?=",
+					"?",
+					"LIBDIR",
+					"Q_GEN",
+					"swc.pc",
+					"TARGETS",
+					"compile",
+					"CC",
+					"CROSS_COMPILE",
+					"cc",
+					"CCC",
+					"outline",
+					"576",
+					"720",
+					"mod,shift",
+					".1",
+					"key",
+					"example",
+					"sp",
+					" !",
+					"enter",
+					"XDG_RUNTIME_DIR",
+					"wl_proxy_marshal_constructor_version",
+					"versioned",
+					"wl_proxy_marshal_constructor_versioned",
+					"SUBLIBS",
+					"LIB",
+					"cursor",
+					"LIBS",
+					"simple-egl",
+					" -l",
+					"-l",
+					"pointer",
+					"seat",
+					"surface",
+					"wl_surface",
+					"create_pool",
+					"frame",
+					"inc",
+					"wl_callback",
+					"-O2",
+					"-O0",
+					"wl_display",
+					"damage",
+					"create_pool",
+					"wl_registry",
+					"destroy"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -324,6 +360,16 @@
 				"regex": false,
 				"replace_history":
 				[
+					"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/linux-devkit/sysroots/x86_64-arago-linux/usr/arm-linux-gnueabihf/lib",
+					"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/linux-devkit/sysroots/x86_64-arago-linux/usr/libexec/gcc",
+					"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/linux-devkit/sysroots/x86_64-arago-linux/usr/libexec/gcc/arm-linux-gnueabihf",
+					"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/linux-devkit/sysroots/x86_64-arago-linux/usr/libexec/gcc/arm-linux-gnueabihf/4.9.3/",
+					"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/linux-devkit/sysroots/x86_64-arago-linux/usr/arm-linux-gnueabihf/include",
+					"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/linux-devkit/sysroots/cortexa15hf-vfp-neon-linux-gnueabi",
+					"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/linux-devkit/sysroots/cortexa15hf-vfp-neon-linux-gnueabi/",
+					"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/linux-devkit/sysroots/x86_64-arago-linux/usr/arm-linux-gnueabihf/",
+					"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/linux-devkit/sysroots/cortexa15hf-vfp-neon-linux-gnueabi/",
+					"/home/try/Workspace/"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -333,21 +379,13 @@
 			},
 			"incremental_find":
 			{
-				"height": 27.0
+				"height": 30.0
 			},
 			"input":
 			{
 				"height": 0.0
 			},
 			"menu_visible": true,
-			"output.astyle_error_message":
-			{
-				"height": 0.0
-			},
-			"output.clang":
-			{
-				"height": 134.0
-			},
 			"output.find_results":
 			{
 				"height": 0.0
@@ -355,7 +393,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 50.0
+				"height": 56.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -364,154 +402,6 @@
 				"last_filter": "",
 				"selected_items":
 				[
-					[
-						"appdemo_dmx",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DMX.h"
-					],
-					[
-						"msapi_xc.h",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/api/xc/msAPI_XC.h"
-					],
-					[
-						"appdemo.c",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo.c"
-					],
-					[
-						"main",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/main.c"
-					],
-					[
-						"main.c",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/platform/driver/pq/hal/k1_mstar/include/Kronus_Main.c"
-					],
-					[
-						"mst124d_d",
-						"Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D01A.h"
-					],
-					[
-						"drvmiu",
-						"Uranus/K1/DDI_Package/ddi_pkg_ecos/bsp/include/drvMIU.h"
-					],
-					[
-						"apidigituner.h",
-						"Uranus/DDI_Misc/cus_mstar/api/frontend/apiDigiTuner.h"
-					],
-					[
-						"board",
-						"Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/Board.h"
-					],
-					[
-						"mscomm",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsCommon.h"
-					],
-					[
-						"drvdemod",
-						"Uranus/DDI_Misc/cus_mstar/platform/driver/demod/drvDemod.h"
-					],
-					[
-						"drvdct",
-						"Uranus/DDI_Misc/cus_mstar/platform/driver/dtc/drvDTC.h"
-					],
-					[
-						"drv",
-						"Uranus/DDI_Misc/cus_mstar/platform/driver/dtc/drvDTC.h"
-					],
-					[
-						"demo_digit",
-						"Uranus/DDI_Misc/cus_mstar/app/demo/appDemo_DigiTuner.c"
-					],
-					[
-						"drvdtc.h",
-						"Uranus/DDI_Misc/cus_mstar/platform/driver/dtc/drvDTC.h"
-					],
-					[
-						"appdemo_digi",
-						"Uranus/DDI_Misc/cus_mstar/app/demo/appDemo_DigiTuner.c"
-					],
-					[
-						"demo",
-						"Uranus/DDI_Misc/cus_mstar/app/demo/appDemo_DigiTuner.c"
-					],
-					[
-						"custom_",
-						"Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/Customer_Info.h"
-					],
-					[
-						"bd_mst12",
-						"Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D01A.h"
-					],
-					[
-						"bd_nst12",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124SZ.h"
-					],
-					[
-						"appdemo_digituner.",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DigiTuner.c"
-					],
-					[
-						"bd_mst124d_d01a",
-						"Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D01A.h"
-					],
-					[
-						"bd_mst124d_d02a_s.h",
-						"Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D02A_S.h"
-					],
-					[
-						"demo/config",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/config"
-					],
-					[
-						"drvusbcommon.h",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/drvUsbcommon.h"
-					],
-					[
-						"config",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/msAPI_src/dte/config"
-					],
-					[
-						"target.mk",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/target.mk"
-					],
-					[
-						"makefile",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_loader/Makefile"
-					],
-					[
-						"target",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/target.mk"
-					],
-					[
-						"mstar_demo/config",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/config"
-					],
-					[
-						"msos.h",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsOS.h"
-					],
-					[
-						"drvuart.h",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/drvUART.h"
-					],
-					[
-						"type",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/unzip/Types.h"
-					],
-					[
-						"mstype",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsTypes.h"
-					],
-					[
-						"mstypes.h",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsTypes.h"
-					],
-					[
-						"load",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/sboot/loader.c"
-					],
-					[
-						".c",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/sboot/loader.c"
-					]
 				],
 				"width": 0.0
 			},
@@ -537,13 +427,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": false,
-			"side_bar_width": 314.0,
+			"side_bar_width": 256.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 640.0
+		"new_window_width": 0.0
 	},
 	"windows":
 	[
@@ -552,55 +442,27 @@
 			{
 				"selected_items":
 				[
+					[
+						"gst_elem",
+						"gst_element_class_set_static_metadata"
+					],
+					[
+						"hello",
+						"hellofunc"
+					],
+					[
+						"INCLU",
+						"INCLUDEDIR"
+					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo.c",
+					"file": "gst-plugins-bad/ext/wayland/gstwaylandsink.c",
 					"settings":
 					{
-						"buffer_size": 76535,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/main.c",
-					"settings":
-					{
-						"buffer_size": 12157,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DMX.h",
-					"settings":
-					{
-						"buffer_size": 6277,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DMX.c",
-					"settings":
-					{
-						"buffer_size": 80783,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/dapi_demo/appDemo_Display_Test.c",
-					"settings":
-					{
-						"buffer_size": 29763,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "perforce_theale.sublime-project",
-					"settings":
-					{
-						"buffer_size": 3556,
+						"buffer_size": 31184,
 						"line_ending": "Unix"
 					}
 				}
@@ -612,36 +474,44 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 210.0,
-				"last_filter": "install",
+				"height": 342.0,
+				"last_filter": "form",
 				"selected_items":
 				[
 					[
-						"install",
+						"form",
+						"Format: Javascript"
+					],
+					[
+						"INSTALL",
 						"Package Control: Install Package"
 					],
 					[
-						"remove",
+						"pret",
+						"HTMLPrettify"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
 						"Package Control: Remove Package"
 					],
 					[
-						"instal ",
+						"inst",
 						"Package Control: Install Package"
 					],
 					[
-						"clan",
-						"Set Syntax: SublimeClangErrorPanel"
-					],
-					[
-						"sublimeclang",
-						"Preferences: SublimeClang Settings – User"
+						"install",
+						"Package Control: Install Package"
 					]
 				],
-				"width": 536.0
+				"width": 575.0
 			},
 			"console":
 			{
-				"height": 139.0,
+				"height": 379.0,
 				"history":
 				[
 					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
@@ -658,105 +528,146 @@
 			},
 			"expanded_folders":
 			[
-				"/home/sn001/PERFORCE/THEALE"
+				"/home/try/GstCode"
 			],
 			"file_history":
 			[
-				"/home/sn001/.config/sublime-text-3/Packages/CTags/Default.sublime-mousemap",
-				"/home/sn001/.config/sublime-text-3/Packages/SublimeClang/SublimeClang.sublime-settings",
-				"/home/sn001/.config/sublime-text-3/Tmp/options_script.py",
-				"/home/sn001/Tmp/cmake_option_script.py",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/main.c",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DMX.h",
-				"/home/sn001/.config/sublime-text-3/Packages/User/SublimeClang.sublime-settings",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DMX.c",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsTypes.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_Zapper.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_Scart.c",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsOS.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_Audio.c",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_Gpio.c",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_XC.c",
-				"/home/sn001/PERFORCE/THEALE/perforce_theale.sublime-project",
-				"/home/sn001/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/apiVDEC.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/platform/driver/scart/drvScart.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/apiAUDIO.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/api/xc/msAPI_XC.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo.c",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/platform/driver/pq/hal/k1_mstar/include/Kronus_Main.c",
-				"/home/sn001/PERFORCE/THEALE/Uranus/DDI_Misc/cus_mstar/app/demo/appDemo_DigiTuner.c",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/app/demo/appDemo.c",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D01A.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/bsp/include/drvMIU.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/api/frontend/apiDigiTuner.h",
-				"/home/sn001/.bashrc",
-				"/home/sn001/PERFORCE/THEALE/Uranus/DDI_Misc/cus_mstar/api/frontend/apiDigiTuner.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/platform/driver/demod/drvDemod.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/Board.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/DDI_Misc/cus_mstar/app/demo/appDemo_DigiTuner.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/DDI_Misc/cus_mstar/platform/driver/dtc/drvDTC.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/DDI_Misc/cus_mstar/platform/driver/demod/drvDemod.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/platform/driver/frontend/drvTuner.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsCommon.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/msAPI_src/pq/hal/u4_mstar/include/Uranus4_Main_inputtype_text.c",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/config",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/SysInit.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124SZ.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/Customer_Info.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DMX.c",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/apiDMX.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D01A.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DigiTuner.c",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/api/frontend/apiDigiTuner.c",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/api/vdec/msAPI_Video.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/api/vdec/msAPI_Video.c",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/drvUsbcommon.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_AV.c",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D02A_S.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/SysInit.c",
-				"/home/sn001/.kermrc",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/sboot/Makefile",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_loader/Makefile",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/target.mk",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/Board.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/drvSYS.h",
-				"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/msAPI_src/dte/config",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/Makefile",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/target.mk",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/config",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/ecos/ecos_k1_34kf_fileio_posix_fat_c++_mipsisa32/include/sys/types.h",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo.c",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/sboot/boot.h",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/ecos/ecos_k1_34kf_fileio_posix_fat_c++_mipsisa32/include/cyg/infra/cyg_trac.h",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsTypes.h",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsCommon.h",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/drvUART.h",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsOS.h",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/main.c",
-				"/home/sn001/p4/THEALE/THEALE.sublime-project",
-				"/usr/src/linux-headers-3.8.0-29/include/linux/types.h",
-				"/usr/src/linux-headers-3.8.0-29/arch/x86/include/asm/bitops.h",
-				"/usr/src/linux-headers-3.8.0-29/arch/ia64/include/asm/gcc_intrin.h",
-				"/usr/src/linux-headers-3.8.0-29/include/uapi/asm-generic/int-l64.h",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DMX.h",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DMX.c",
-				"/usr/src/linux-headers-3.8.0-29/include/linux/linkage.h",
-				"/usr/src/linux-headers-3.8.0-29/include/linux/stddef.h",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/unzip/Types.h",
-				"/home/sn001/.config/sublime-text-3/Packages/SublimeClang/sublimeclang.py",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/ecos/ecos_k1_34kf_fileio_posix_fat_c++_mipsisa32/include/cyg/infra/cyg_ass.h",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/ecos/ecos_k1_34kf_fileio_posix_fat_c++_mipsisa32/include/cyg/infra/cyg_type.h",
-				"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/sboot/loader.c",
-				"/home/sn001/.config/sublime-text-3/Packages/User/Preferences.sublime-settings"
+				"/home/try/GstCode/gst-plugins-bad/ext/wayland/gstwaylandsink.c",
+				"/home/try/GstCode/GstCode.sublime-project",
+				"/home/try/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/try/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/try/.config/sublime-text-3/Packages/completion/completion.sublime-settings",
+				"/home/try/Workspace/gstreamer1.0-plugins-bad/1.2.3-r0-arago5/build/arm-linux-gnueabi-libtool",
+				"/home/try/Workspace/gstreamer1.0-plugins-bad/1.2.3-r0-arago5/build/gst-libs/gst/drm/libgstdrm-1.0.la",
+				"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/targetNFS/home/root/gst-pipeline1.sh",
+				"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/targetNFS/home/root/gst-pipeline2.sh",
+				"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/targetNFS/home/root/gst-pipeline3.sh",
+				"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/targetNFS/home/root/gst-pipeline0.sh",
+				"/home/try/Workspace/gstreamer1.0-plugins-bad/1.2.3-r0-arago5/build/ext/wayland/Makefile",
+				"/home/try/.kermrc",
+				"/home/try/.kermit",
+				"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/targetNFS/usr/lib/libdrm_omap.la",
+				"/home/try/GstCode/gst-plugins-bad/gst-libs/gst/egl/libgstegl-1.0.la",
+				"/home/try/GitDownload/qt-gstreamer/README",
+				"/home/try/.bashrc",
+				"/home/try/qt/qtbase/src/widgets/itemviews/qlistview_p.h",
+				"/home/try/GstCode/gst-plugins-bad/ext/wayland/Makefile",
+				"/home/try/Tmp/U-Boot SPL 2015.07 (Jan 28 2016 - 14:19:33)",
+				"/home/try/qt/qtscript/src/script/api/qscriptengine.cpp",
+				"/media/try/1DE9-3E3B1/aten-apps/qtexample/aten-layout-change-demo/demo/demo.pro",
+				"/home/try/qt/qtwebkit/WebKit.pro",
+				"/home/try/qt/qtwebkit/config.log",
+				"/home/try/qt/qtbase/include/QtWidgets/5.5.1/QtWidgets/private/qlistview_p.h",
+				"/home/try/qt/qtbase/src/gui/painting/qpagedpaintdevice.h",
+				"/home/try/qt/qtbase/src/gui/painting/qpagedpaintdevice.cpp",
+				"/home/try/qt/qtbase/include/QtGui/qpagedpaintdevice.h",
+				"/include/QtGui/qpagedpaintdevice.h",
+				"/home/try/Workspace/TestWidget/build-DemoDesktopWidget-Desktop_Qt_5_5_1_GCC_64bit-Debug/Makefile",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/demo/resource.qrc",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/demo/dockmenu.cpp",
+				"/home/try/qt/qtbase/config.status",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/demo/dockmenu.h",
+				"/home/try/Workspace/TestWidget/build-DemoDesktopWidget-Qt_5_5_1_qt5-Debug/Makefile",
+				"/home/try/qt/qtbase/src/gui/text/qfragmentmap_p.h",
+				"/home/try/qt/qtbase/include/QtGui/5.5.1/QtGui/private/qfragmentmap_p.h",
+				"/home/try/src/gui/painting/qpagedpaintdevice.h",
+				"/home/try/qt/qtbase/src/corelib/global/qconfig-nacl.h",
+				"/home/try/qt/qtbase/src/corelib/global/qconfig.h",
+				"/home/try/qt/qtbase/src/corelib/global/qconfig-large.h",
+				"/home/try/qt/qtbase/src/corelib/global/qconfig-local.h",
+				"/home/try/qt/qtwebkit/.qmake.conf",
+				"/home/try/Workspace/ImagePorecssor/imageprocessor.cpp",
+				"/home/try/qt/qtmultimedia/qgstreamerbushelper.cpp",
+				"/home/try/Workspace/TestWidget/DemoDesktopWidget/resource.qrc",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/demo/gst-pipeline3.sh",
+				"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/example-applications/qt-opencv-opencl-opengl-multithreaded-1.3.3/Makefile",
+				"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/setup.sh",
+				"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/Rules.make",
+				"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/linux-devkit/environment-setup",
+				"/usr/local/Qt-5.5.1/include/QtGui/qpagedpaintdevice.h",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/demo/gst-pipeline0.sh",
+				"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/example-applications/qt-opencv-opencl-opengl-multithreaded-1.3.3/Makefile.build",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/demo/demo.pro",
+				"/home/try/Workspace/aten-apps/.gitignore",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/demo/layoutwidget.cpp",
+				"/home/try/Apps/Wayland/weston/weston.ini",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/demo/gst-pipeline1.sh",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/demo/gst-pipeline2.sh",
+				"/home/try/Qt5.5.1/Examples/Qt-5.5/designer/build-worldtimeclockplugin-Desktop_Qt_5_5_1_GCC_64bit-Debug/Makefile",
+				"/home/try/Qt5.5.1/5.5/gcc_64/include/analogclock.h",
+				"/home/try/Apps/Wayland/examples/widgets/widgets/analogclock/analogclock.h",
+				"/home/try/qt5/qtbase/examples/widgets/widgets/analogclock/analogclock.h",
+				"/usr/local/Qt-5.7.0/examples/widgets/widgets/analogclock/analogclock.h",
+				"/home/try/Workspace/TestWidget/ui_widget.h",
+				"/home/try/Documents/cpub-chrome-RDS-CmsRdsh.rdp",
+				"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/example-applications/qt-opencv-opencl-opengl-multithreaded-1.3.3/qt-opencv-opencl-opengl-multithreaded.pro",
+				"/usr/share/applications/defaults.list",
+				"/home/try/.local/share/applications/defaults.list",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/build-demo-Qt_5_5_1_qt5-Release/gst-pipeline1.sh",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/build-demo-Desktop_Qt_5_5_1_GCC_64bit-Debug/gst-pipeline0.sh",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/build-demo-Desktop_Qt_5_5_1_GCC_64bit-Debug/gst-pipeline1.sh",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/build-demo-Desktop_Qt_5_5_1_GCC_64bit-Debug/gst-pipeline2.sh",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/build-demo-Desktop_Qt_5_5_1_GCC_64bit-Debug/gst-pipeline3.sh",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/build-demo-Qt_5_5_1_qt5-Release/gst-pipeline0.sh",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/build-demo-Qt_5_5_1_qt5-Release/gst-pipeline2.sh",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/build-demo-Qt_5_5_1_qt5-Release/gst-pipeline3.sh",
+				"/home/try/GstCode/qt-gstreamer/README",
+				"/home/try/Workspace/aten-apps/qtexample/aten-layout-change-demo/demo/gst-pipeline1.txt",
+				"/home/try/GitDownload/swc/cursor/local.mk",
+				"/home/try/GitDownload/swc/launch/local.mk",
+				"/home/try/GitDownload/swc/libswc/local.mk",
+				"/home/try/GitDownload/swc/protocol/local.mk",
+				"/home/try/GitDownload/swc/example/local.mk",
+				"/home/try/Workspace/TestMakefile/Makefile",
+				"/home/try/Workspace/TestMakefile/hellomake.h",
+				"/home/try/Workspace/TestMakefile/hellofunc.c",
+				"/home/try/Workspace/TestMakefile/hellomake.c",
+				"/home/try/GitDownload/wld/config.mk",
+				"/home/try/GitDownload/wld/protocol/wayland-drm-client-protocol.h",
+				"/home/try/GitDownload/wld/wayland-drm.c",
+				"/home/try/GitDownload/swc/Makefile",
+				"/home/try/GitDownload/wld/Makefile",
+				"/home/try/GitDownload/swc/launch/log",
+				"/home/try/GstCode/qt-gstreamer/build/CMakeFiles/CMakeError.log",
+				"/home/try/Workspace/TestMakefile/Mak",
+				"/home/try/GitDownload/swc/common.mk",
+				"/home/try/Workspace/aten-apps/omapdrmtest/Makefile",
+				"/home/try/GitDownload/swc/config.mk",
+				"/home/try/GitDownload/swc/launch/launch.c",
+				"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/linux-devkit/sysroots/cortexa15hf-vfp-neon-linux-gnueabi/usr/include/xf86drm.h",
+				"/home/try/GitDownload/swc/README.md",
+				"/home/try/GitDownload/swc/protocol/swc.xml",
+				"/home/try/GitDownload/velox/protocol/velox.xml",
+				"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/Makefile",
+				"/home/try/GitDownload/dmenu/config.mk",
+				"/home/try/.velox.conf",
+				"/home/try/Downloads/eclipse/plugins/org.eclipse.ui.themes_1.1.1.v20151026-1355/css/e4-dark.css",
+				"/home/try/Downloads/eclipse/plugins/org.eclipse.ui.themes_1.1.1.v20151026-1355/css/dark/e4-dark_globalstyle.css",
+				"/home/try/Downloads/eclipse/plugins/org.eclipse.ui.themes_1.1.1.v20151026-1355/css/dark/e4-dark_partstyle.css",
+				"/home/try/GitDownload/gst-wayland-gtk-demo/Makefile",
+				"/home/try/Workspace/aten-apps/qtexample/simple-qt-gst-demo/gstwaylanddemo.pro",
+				"/home/try/Apps/Wayland/weston/Demo/pointer.c",
+				"/home/try/Apps/Wayland/weston/Demo/keyboard.c",
+				"/home/try/GitDownload/mazecompositor/Makefile",
+				"/home/try/GitDownload/motorcar/Makefile",
+				"/home/try/GitDownload/motorcar/src/examples/clients/simple-egl/motorcar-client-protocol.h",
+				"/home/try/GitDownload/motorcar/src/examples/compositors/simple-compositor/Makefile",
+				"/home/try/GitDownload/motorcar/build.sh",
+				"/home/try/GitDownload/mazecompositor/view.h",
+				"/home/try/GitDownload/swc/launch/env.source",
+				"/home/try/GitDownload/velox/protocol/velox-client-protocol.h",
+				"/home/try/GitDownload/velox/protocol/velox-protocol.c",
+				"/home/try/GitDownload/velox/clients/status_bar.c",
+				"/home/try/Tmp/wayland.xml",
+				"/home/try/Apps/Wayland/weston/Demo/Makefile"
 			],
 			"find":
 			{
-				"height": 34.0
+				"height": 27.0
 			},
 			"find_in_files":
 			{
-				"height": 94.0,
+				"height": 93.0,
 				"where_history":
 				[
 					""
@@ -767,87 +678,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"appDemo_Main",
-					"FE_AUTO_TEST",
-					"appDemo_Main",
-					"DAPI_DEMO_ENABLE",
-					"_appDemo_task",
-					"_DemoFun",
-					"F12",
-					"std",
-					"appDemo_Zapper_Help",
-					"_appDemo_task",
-					"_appDemo_Task",
-					"_appDemo_task",
-					"_DemoFun",
-					"DemoFun _DemoFun",
-					"_DemoFun",
-					"TestFun",
-					"tuner",
-					"xc_init",
-					"E_DEMOD_LOCK",
-					"EN_LOCK_STATUS",
-					"drvDemod.h",
-					"_Tuner_TryLock",
-					"LOCK",
-					"inSrc",
-					"dmx",
-					"hash",
-					"dem",
-					"demod",
-					"MApi_DigiTuner_GetSNR",
-					"tuner",
-					"tu",
-					"TUNER_PHILIPS_CD1616LF_GIGH_4",
-					"MApi_SystemInit_Init",
-					"CHIP_U4",
-					"drvUsbcommon.h",
-					"apiVDEC.h",
-					"MsCommon",
-					"DemoAV_MVD_GetVideoInfo",
-					"TV_MVD_GetVideoInfo",
-					"Video_GetDecoderStatus",
-					"appDemo_XC_PlayVideo_UsingDefaultSetting",
-					"/home/sn001/PERFORCE/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/",
-					"/home/sn001/p4/THEALE/Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/",
-					"-D",
-					"CFG_NDS_LIB",
-					"CFG_CA",
-					"-D",
-					"DEFS",
-					"tuner",
-					"MS_BOARD_TYPE_SEL",
-					"tunner",
-					"TaskStart",
-					"PTask_Info",
-					"TaskStart",
-					"appDemo_Main",
-					"MS_BOARD_TYPE_SEL",
-					"MApi_SystemInit_Init",
-					"OBJ",
-					"OBJ_C_0",
-					"p4",
-					"greenlion",
-					"ifeq",
-					"MsOSAttribute",
-					"\",\n",
-					"MSOS_TYPE_LINUX_KERNEL",
-					"MsOSAttribute",
-					"MDrv_UART_PutChar",
-					"UART_Result",
-					"drvUART.h",
-					"UART_Result",
-					"ifndef",
-					"mstypes.h",
-					"MsTypes.h",
-					"MS_S32",
-					"add_error_mark(",
-					"\\",
-					"cyg_halcount16",
-					"MS_BOOL",
-					"appDemo_Main",
-					"_type_",
-					"/x86_64-linux-gnu"
+					"VPATH",
+					"thomas",
+					"/home/thomas/aten/gcc-linaro-4.9/arm-linux-gnueabihf/lib",
+					"/home/thomas/aten/gcc-linaro-4.9/lib/gcc",
+					"/home/thomas/aten/gcc-linaro-4.9/lib/gcc/arm-linux-gnueabihf",
+					"/home/thomas/aten/gcc-linaro-4.9/lib/gcc/arm-linux-gnueabihf/4.9.3",
+					"/home/thomas/aten/gcc-linaro-4.9/arm-linux-gnueabihf/include",
+					"/home/thomas/aten/tisdk/build/arago-tmp-external-linaro-toolchain/sysroots/am57xx-evm",
+					"thomas",
+					"/home/thomas/aten/tisdk/build/arago-tmp-external-linaro-toolchain/sysroots/x86_64-linux/",
+					"/home/thomas/aten/tisdk/build/arago-tmp-external-linaro-toolchain/sysroots/am57xx-evm",
+					"thomas",
+					"/home/thomas/aten/gcc-linaro-4.9/arm-linux-gnueabihf/",
+					"la",
+					"libdrm",
+					"libdrm_omap.la",
+					"/home/thomas/aten/tisdk/build/arago-tmp-external-linaro-toolchain/sysroots/am57xx-evm/",
+					"/home/thomas/aten/tisdk/build/arago-tmp-external-linaro-toolchain/work/am57xx_evm-linux-gnueabi/",
+					"thomas",
+					"dd",
+					"QPagedPaintDevicePrivate",
+					"QPagedPaintDevice",
+					"QPagedPaintDevicePrivate",
+					"ssl",
+					"void",
+					"Btns",
+					"void",
+					"static",
+					"_",
+					"static",
+					"}",
+					";",
+					"SUBLIBS",
+					"AnalogClock",
+					"SUBLIBS",
+					"-L",
+					"AnalogClock",
+					"UI",
+					"fade",
+					"void",
+					"show",
+					"sublime_text",
+					"gedit",
+					"boot_vga",
+					"intel",
+					"LD_LIBRARY_PATH",
+					"DRM_DRIVERS",
+					"WLD_SOURCES",
+					"WLD_SHARED_OBJECTS",
+					"DESTDIR",
+					"LIBDIR",
+					"CC",
+					"pixman-1",
+					"PACKAGE_LIBS",
+					"example",
+					"SUBDIRS",
+					"launch",
+					"drmSetMaster",
+					"SWC_PC_VARS",
+					"LIBDIR",
+					"INCLUDEDIR",
+					"LIBDIR",
+					"LIBDIR\\",
+					"LIBDIR",
+					"PACKAGES",
+					"libdrm",
+					"drm",
+					"drmSetMaster",
+					"INCLUDE",
+					"TI_SDK_PATH",
+					"INCLUDES",
+					"INCLUDE",
+					"_LIBS",
+					"CC",
+					"LIBDIR",
+					"swc.pc.in",
+					"swc.pc",
+					"TARGETS",
+					"swc.pc",
+					"TARGETS",
+					"?",
+					"          ?=",
+					"?",
+					"LIBDIR",
+					"Q_GEN",
+					"swc.pc",
+					"TARGETS",
+					"compile",
+					"CC",
+					"CROSS_COMPILE",
+					"cc",
+					"CCC",
+					"outline",
+					"576",
+					"720",
+					"mod,shift",
+					".1",
+					"key",
+					"example",
+					"sp",
+					" !",
+					"enter",
+					"XDG_RUNTIME_DIR",
+					"wl_proxy_marshal_constructor_version",
+					"versioned",
+					"wl_proxy_marshal_constructor_versioned",
+					"SUBLIBS",
+					"LIB",
+					"cursor",
+					"LIBS",
+					"simple-egl",
+					" -l",
+					"-l",
+					"pointer",
+					"seat",
+					"surface",
+					"wl_surface",
+					"create_pool",
+					"frame",
+					"inc",
+					"wl_callback",
+					"-O2",
+					"-O0",
+					"wl_display",
+					"damage",
+					"create_pool",
+					"wl_registry",
+					"destroy"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -855,6 +813,16 @@
 				"regex": false,
 				"replace_history":
 				[
+					"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/linux-devkit/sysroots/x86_64-arago-linux/usr/arm-linux-gnueabihf/lib",
+					"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/linux-devkit/sysroots/x86_64-arago-linux/usr/libexec/gcc",
+					"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/linux-devkit/sysroots/x86_64-arago-linux/usr/libexec/gcc/arm-linux-gnueabihf",
+					"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/linux-devkit/sysroots/x86_64-arago-linux/usr/libexec/gcc/arm-linux-gnueabihf/4.9.3/",
+					"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/linux-devkit/sysroots/x86_64-arago-linux/usr/arm-linux-gnueabihf/include",
+					"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/linux-devkit/sysroots/cortexa15hf-vfp-neon-linux-gnueabi",
+					"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/linux-devkit/sysroots/cortexa15hf-vfp-neon-linux-gnueabi/",
+					"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/linux-devkit/sysroots/x86_64-arago-linux/usr/arm-linux-gnueabihf/",
+					"/home/try/ti-processor-sdk-linux-am57xx-evm-02.00.01.07/linux-devkit/sysroots/cortexa15hf-vfp-neon-linux-gnueabi/",
+					"/home/try/Workspace/"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -865,24 +833,24 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo.c",
+							"file": "gst-plugins-bad/ext/wayland/gstwaylandsink.c",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 76535,
+								"buffer_size": 31184,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										72685,
-										72685
+										9249,
+										9249
 									]
 								],
 								"settings":
@@ -890,26 +858,16 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
@@ -920,31 +878,41 @@
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
 									],
 									"c_time":
 									[
@@ -974,152 +942,15 @@
 										67,
 										10,
 										7,
-										223,
-										10,
-										2,
+										224,
+										3,
+										22,
 										17,
-										35,
-										45,
-										0,
-										0,
-										0,
-										113,
+										38,
+										13,
 										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"syntax": "Packages/C++/C++.tmLanguage",
-									"syntax_mgr_loaded": true,
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 32719.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/main.c",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 12157,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										8188,
-										8188
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										223,
-										10,
-										2,
-										11,
-										54,
-										42,
-										0,
-										0,
-										0,
+										142,
+										235,
 										113,
 										1,
 										133,
@@ -1131,565 +962,16 @@
 										46
 									],
 									"origin_encoding": "ASCII",
-									"syntax": "Packages/C++/C++.tmLanguage",
+									"syntax": "Packages/C++/C.sublime-syntax",
 									"syntax_mgr_loaded": true,
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 2870.0,
+								"translation.y": 5850.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DMX.h",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 6277,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										5536,
-										5536
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										223,
-										10,
-										5,
-										12,
-										58,
-										38,
-										0,
-										0,
-										0,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"syntax": "Packages/C++/C++.tmLanguage",
-									"syntax_mgr_loaded": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1540.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DMX.c",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 80783,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										32264,
-										32264
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										223,
-										10,
-										2,
-										11,
-										54,
-										9,
-										0,
-										0,
-										0,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"syntax": "Packages/C++/C++.tmLanguage",
-									"syntax_mgr_loaded": true,
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 16702.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/dapi_demo/appDemo_Display_Test.c",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 29763,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										12621,
-										12621
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"bh_regions":
-									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										223,
-										10,
-										2,
-										11,
-										53,
-										58,
-										0,
-										0,
-										0,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/C++/C++.tmLanguage",
-									"syntax_mgr_loaded": true,
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 6366.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "perforce_theale.sublime-project",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3556,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										110,
-										110
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete": true,
-									"bh_regions":
-									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										223,
-										10,
-										5,
-										12,
-										58,
-										21,
-										0,
-										0,
-										0,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"syntax_mgr_loaded": true,
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 912.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
 							"type": "text"
 						}
 					]
@@ -1726,21 +1008,13 @@
 				]
 			},
 			"menu_visible": true,
-			"output.astyle_error_message":
-			{
-				"height": 0.0
-			},
-			"output.clang":
-			{
-				"height": 134.0
-			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,65,24,705,504,1350,687",
-			"project": "perforce_theale.sublime-project",
+			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"project": "GstCode.sublime-project",
 			"replace":
 			{
 				"height": 50.0
@@ -1753,152 +1027,12 @@
 				"selected_items":
 				[
 					[
-						"main",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/main.c"
+						"gstwaylan",
+						"gst-plugins-bad/ext/wayland/gstwaylandsink.c"
 					],
 					[
-						"appdemo_dmx",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DMX.h"
-					],
-					[
-						"msapi_xc.h",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/api/xc/msAPI_XC.h"
-					],
-					[
-						"appdemo.c",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo.c"
-					],
-					[
-						"main.c",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/platform/driver/pq/hal/k1_mstar/include/Kronus_Main.c"
-					],
-					[
-						"mst124d_d",
-						"Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D01A.h"
-					],
-					[
-						"drvmiu",
-						"Uranus/K1/DDI_Package/ddi_pkg_ecos/bsp/include/drvMIU.h"
-					],
-					[
-						"apidigituner.h",
-						"Uranus/DDI_Misc/cus_mstar/api/frontend/apiDigiTuner.h"
-					],
-					[
-						"board",
-						"Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/Board.h"
-					],
-					[
-						"mscomm",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsCommon.h"
-					],
-					[
-						"drvdemod",
-						"Uranus/DDI_Misc/cus_mstar/platform/driver/demod/drvDemod.h"
-					],
-					[
-						"drvdct",
-						"Uranus/DDI_Misc/cus_mstar/platform/driver/dtc/drvDTC.h"
-					],
-					[
-						"drv",
-						"Uranus/DDI_Misc/cus_mstar/platform/driver/dtc/drvDTC.h"
-					],
-					[
-						"demo_digit",
-						"Uranus/DDI_Misc/cus_mstar/app/demo/appDemo_DigiTuner.c"
-					],
-					[
-						"drvdtc.h",
-						"Uranus/DDI_Misc/cus_mstar/platform/driver/dtc/drvDTC.h"
-					],
-					[
-						"appdemo_digi",
-						"Uranus/DDI_Misc/cus_mstar/app/demo/appDemo_DigiTuner.c"
-					],
-					[
-						"demo",
-						"Uranus/DDI_Misc/cus_mstar/app/demo/appDemo_DigiTuner.c"
-					],
-					[
-						"custom_",
-						"Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/Customer_Info.h"
-					],
-					[
-						"bd_mst12",
-						"Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D01A.h"
-					],
-					[
-						"bd_nst12",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124SZ.h"
-					],
-					[
-						"appdemo_digituner.",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/app/demo/appDemo_DigiTuner.c"
-					],
-					[
-						"bd_mst124d_d01a",
-						"Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D01A.h"
-					],
-					[
-						"bd_mst124d_d02a_s.h",
-						"Uranus/K1/DDI_Package/ddi_pkg_ecos/cus_mstar/project/mstar_demo/include/BD_MST124D_D02A_S.h"
-					],
-					[
-						"demo/config",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/config"
-					],
-					[
-						"drvusbcommon.h",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/drvUsbcommon.h"
-					],
-					[
-						"config",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/msAPI_src/dte/config"
-					],
-					[
-						"target.mk",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/target.mk"
-					],
-					[
-						"makefile",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_loader/Makefile"
-					],
-					[
-						"target",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/target.mk"
-					],
-					[
-						"mstar_demo/config",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/cus_mstar/project/mstar_demo/config"
-					],
-					[
-						"msos.h",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsOS.h"
-					],
-					[
-						"drvuart.h",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/drvUART.h"
-					],
-					[
-						"type",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/unzip/Types.h"
-					],
-					[
-						"mstype",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsTypes.h"
-					],
-					[
-						"mstypes.h",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/bsp/include/MsTypes.h"
-					],
-					[
-						"load",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/sboot/loader.c"
-					],
-					[
-						".c",
-						"Uranus/K1_DDI_Branch/eCos/V3.0/ddi_pkg_ecos/boot/sboot/loader.c"
+						"gstwayland",
+						"gst-plugins-bad/ext/wayland/gstwaylandsink.c"
 					]
 				],
 				"width": 0.0
@@ -1914,12 +1048,12 @@
 			},
 			"select_symbol":
 			{
-				"height": 0.0,
+				"height": 342.0,
 				"last_filter": "",
 				"selected_items":
 				[
 				],
-				"width": 0.0
+				"width": 374.0
 			},
 			"selected_group": 0,
 			"settings":
@@ -1929,38 +1063,20 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": false,
-			"side_bar_width": 314.0,
+			"side_bar_width": 256.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 470,
-			"workspace_name": "/home/sn001/PERFORCE/THEALE/perforce_theale.sublime-workspace"
+			"window_id": 5,
+			"workspace_name": "/home/try/GstCode/GstCode.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
-			"/home/sn001/PERFORCE/THEALE/perforce_theale.sublime-workspace",
-			"/home/sn001/Git/mboot/mboot.sublime-workspace",
-			"/home/jiahao/Git/msr13/msr13.sublime-workspace",
-			"/home/jiahao/Git/arec_ct/arec_ct.sublime-workspace",
-			"/home/jiahao/Git/cbox_mediastack/cbox_mediastack.sublime-workspace",
-			"/home/jiahao/Lib/gstreamer-1.4.0/gstreamer-1.4.3.sublime-workspace",
-			"/home/jiahao/Git/msrgst/msrgst.sublime-workspace",
-			"/home/jiahao/Git/msrgui/msrgui.sublime-workspace",
-			"/home/jiahao/Dropbox/CTCI/CTCI.sublime-workspace",
-			"/home/jiahao/Git/curl/curl.sublime-workspace",
-			"/home/jiahao/Git/gst-plugins-good/gst-plugins-good.sublime-workspace",
-			"/home/jiahao/Lib/gstreamer/gstreamer-1.2.0.sublime-workspace",
-			"/home/jiahao/Downloads/linux sdk/linux-sdk-demo/demo.sublime-workspace",
-			"/home/jiahao/Dropbox/Case/WimeConnect_v1_2_0/WimeConnect.sublime-workspace",
-			"/home/jiahao/Dropbox/Case/ZeClock/iOSPlot-master/iosPlot.sublime-workspace",
-			"/home/jiahao/Git/rtsp_rtp_server/rtsp_rtp_server.sublime-workspace",
-			"/home/jiahao/Git/gst-rtsp-server/gst/rtsp-server/gst-rtsp-server.sublime-workspace",
-			"/home/jiahao/Git/arec_ct/media_engine/sw_plugin/arec_rtmp/arec_ct.sublime-workspace",
-			"/home/jiahao/Lib/nginx-rtmp-module-master/nginx-rtmp-module.sublime-workspace"
+			"/home/try/GstCode/GstCode.sublime-workspace"
 		]
 	}
 }
